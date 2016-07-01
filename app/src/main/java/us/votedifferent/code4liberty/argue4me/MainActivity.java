@@ -17,17 +17,22 @@ public class MainActivity extends AppCompatActivity {
         final Button leftButton = (Button) findViewById(R.id.left);
         Button rightButton = (Button) findViewById(R.id.right);
 
-        final String argument = "Taxation is theft!";
+        final String argument = "Who owns you? You or the government?";
+        final String rightLine = "Taxation is theft!";
 
         leftButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 sendLine(argument);
             }
+        });
 
-                                      }
-
-        );
+        rightButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                sendLine(rightLine);
+            }
+        });
 
     }
 

@@ -1,11 +1,10 @@
 package us.votedifferent.code4liberty.argue4me;
 
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.Toolbar;
 import android.view.View;
+import android.widget.Button;
+import android.widget.TextView;
 
 public class argumentActivity extends AppCompatActivity {
 
@@ -13,18 +12,25 @@ public class argumentActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_argument);
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
 
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
+        Bundle pickupData = getIntent().getExtras();
+        Button retryButton = (Button) findViewById(R.id.tryAgain);
+
+        if (pickupData == null) {
+            return;
+        }
+            String recievedPickupLine = pickupData.getString("Pickup Line");
+            TextView newLine = (TextView) findViewById(R.id.Argument);
+            newLine.setText(recievedPickupLine);
+
+        retryButton.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
+            public void onClick(View v) {
+                finish();
             }
-        });
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+            });
+
+        }
     }
 
 }
