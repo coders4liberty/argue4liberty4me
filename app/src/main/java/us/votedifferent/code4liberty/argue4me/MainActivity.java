@@ -17,13 +17,13 @@ public class MainActivity extends AppCompatActivity {
         final Button leftButton = (Button) findViewById(R.id.left);
         Button rightButton = (Button) findViewById(R.id.right);
 
-        final String argument = "Who owns you? You or the government?";
+        final String leftLine = "Who owns you? You or the government?";
         final String rightLine = "Taxation is theft!";
 
         leftButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                sendLine(argument);
+                sendLine(leftLine);
             }
         });
 
@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void sendLine(String argument) {
         Intent intent = new Intent(this, argumentActivity.class);
-        intent.putExtra("Pickup Line", argument);
+        intent.putExtra("Argument", argument);
         startActivity(intent);
     }
 }

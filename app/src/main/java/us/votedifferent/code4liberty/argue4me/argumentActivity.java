@@ -19,9 +19,9 @@ public class argumentActivity extends AppCompatActivity {
         if (pickupData == null) {
             return;
         }
-            String recievedPickupLine = pickupData.getString("Pickup Line");
+            String receivedArgument = pickupData.getString("Argument");
             TextView newLine = (TextView) findViewById(R.id.Argument);
-            newLine.setText(recievedPickupLine);
+            newLine.setText(receivedArgument);
 
         retryButton.setOnClickListener(new View.OnClickListener() {
             @Override
