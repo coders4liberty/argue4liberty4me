@@ -32,5 +32,3 @@ public class argumentActivity extends AppCompatActivity {
 
         }
     }
-
-}
