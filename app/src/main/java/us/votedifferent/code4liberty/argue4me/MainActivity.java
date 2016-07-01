@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         Button warButton = (Button) findViewById(R.id.war);
         Button corpButton = (Button) findViewById(R.id.corp);
 
-        final String drugLine = "Who owns you? You or the government?";
+        final String drugLine = "Who owns your body? You or the government?";
         final String taxLine = "Taxation is theft!";
         final String corpLine = "End all corporate welfare.";
         final String warLine = "Free trade with all. Entangling alliances with no one.";
