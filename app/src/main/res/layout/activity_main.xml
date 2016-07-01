@@ -2,6 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
@@ -10,45 +11,70 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_weight=".76">
+        android:layout_weight=".02">
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="LEFT"
-            android:id="@+id/left"
-            android:layout_alignParentEnd="false"
-            android:textSize="30sp"
-            android:background="#000000"
-            android:textColor="#8b8b8b" />
+            android:text="@string/taxation"
+            android:id="@+id/taxation"
+            android:textSize="40sp"
+            android:background="#fff200"
+            android:textColor="#000000"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true" />
 
     </RelativeLayout>
 
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_weight=".76">
+        android:layout_weight=".02" >
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="RIGHT"
-            android:id="@+id/right"
-            android:textSize="30dp"
-            android:background="#fff200"
-            android:textColor="#000000"
-            android:layout_alignParentTop="true"
-            android:layout_alignParentStart="false"
-            android:layout_alignParentEnd="true" />
-
+            android:text="FOREIGN POLICY"
+            android:id="@+id/war"
+            android:textSize="40sp"
+            android:background="#690000"
+            android:textColor="#FFFFFF"
+            android:layout_centerVertical="true"
+            android:layout_alignParentStart="true" />
     </RelativeLayout>
 
-    <ToggleButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="New ToggleButton"
-        android:id="@+id/toggleButton"
-        android:layout_gravity="center_vertical"
-        android:layout_weight=".5" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.02" >
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/corporations"
+            android:id="@+id/corp"
+            android:textSize="40sp"
+            android:background="#000069"
+            android:textColor="#8b8b8b"
+            android:layout_centerVertical="true"
+            android:layout_alignParentStart="true" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight=".02">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/drug_policy"
+            android:id="@+id/drug"
+            android:textSize="40sp"
+            android:background="#000000"
+            android:textColor="#8b8b8b"
+            android:layout_centerVertical="true"
+            android:layout_alignParentStart="true" />
+    </RelativeLayout>
 
 </LinearLayout>

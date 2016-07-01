@@ -2,4 +2,7 @@
     <string name="app_name">argue4me</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_argument">argumentActivity</string>
+    <string name="drug_policy">DRUG POLICY</string>
+    <string name="corporations">CORPORATIONS</string>
+    <string name="taxation">TAXATION</string>
 </resources>

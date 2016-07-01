@@ -14,23 +14,41 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // grab left button
-        final Button leftButton = (Button) findViewById(R.id.left);
-        Button rightButton = (Button) findViewById(R.id.right);
+        final Button taxButton = (Button) findViewById(R.id.taxation);
+        Button drugButton = (Button) findViewById(R.id.drug);
+        Button warButton = (Button) findViewById(R.id.war);
+        Button corpButton = (Button) findViewById(R.id.corp);
 
-        final String leftLine = "Who owns you? You or the government?";
-        final String rightLine = "Taxation is theft!";
+        final String drugLine = "Who owns you? You or the government?";
+        final String taxLine = "Taxation is theft!";
+        final String corpLine = "End all corporate welfare.";
+        final String warLine = "Free trade with all. Entangling alliances with no one.";
 
-        leftButton.setOnClickListener(new View.OnClickListener() {
+        drugButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                sendLine(leftLine);
+                sendLine(drugLine);
             }
         });
 
-        rightButton.setOnClickListener(new View.OnClickListener() {
+        taxButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                sendLine(rightLine);
+                sendLine(taxLine);
+            }
+        });
+
+        corpButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                sendLine(corpLine);
+            }
+        });
+
+        warButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                sendLine(warLine);
             }
         });
 
