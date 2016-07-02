@@ -37,7 +37,10 @@ public class MainActivity extends AppCompatActivity {
         Button corpButton = (Button) findViewById(R.id.corp);
 
         // add drug policy arguments to this array of strings.
-        final String[] drugList = {"Who owns your body? You or the government?", "God invented cannabis", "I agree that marijuana is not the most important issue. It's so unimportant I think we should stop wasting money locking people in prison over it and we should stop using it as an excuse to eviscerate the bill of rights."};
+        final String[] drugList = {"Who owns your body? You or the government?", "God invented " +
+                "cannabis", "I agree that marijuana is not the most important issue. It's so " +
+                "unimportant I think we should stop wasting money locking people in prison over " +
+                "it and we should stop using it as an excuse to eviscerate the bill of rights."};
         final int drugSize = drugList.length;
 
         // add taxation arguments to this array of strings.
@@ -45,11 +48,14 @@ public class MainActivity extends AppCompatActivity {
         final int taxSize = taxList.length;
 
         // add economics arguments to this array of strings.
-        final String[] econList = {"End all corporate welfare.", "Corporations control the government. Therefore, we need more government.", "People are greedy. Therefore, we need a government that is made up of people."};
+        final String[] econList = {"End all corporate welfare.", "Corporations control the " +
+                "government. Therefore, we need more government.", "People are greedy. Therefore, " +
+                "we need a government that is made up of people."};
         final int econSize = econList.length;
 
         // add foreign policy arguments to this array of strings.
-        final String[] warList = {"Free trade with all. Entangling alliances with no one.", "War is the health of the state", "The war on terrorism is a paradox. War is terrorism"};
+        final String[] warList = {"Free trade with all. Entangling alliances with no one.", "War is " +
+                "the health of the state", "The war on terrorism is a paradox. War is terrorism"};
         final int warSize = warList.length;
 
 
