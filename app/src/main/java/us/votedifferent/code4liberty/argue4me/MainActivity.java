@@ -36,20 +36,22 @@ public class MainActivity extends AppCompatActivity {
         Button warButton = (Button) findViewById(R.id.war);
         Button corpButton = (Button) findViewById(R.id.corp);
 
-        final String[] drugList = {"Who owns your body? You or the government?"};
+        // add drug policy arguments to this array of strings.
+        final String[] drugList = {"Who owns your body? You or the government?", "God invented cannabis", "I agree that marijuana is not the most important issue. It's so unimportant I think we should stop wasting money locking people in prison over it and we should stop using it as an excuse to eviscerate the bill of rights."};
+        final int drugSize = drugList.length;
 
-        final String[] taxList = {"Taxation is theft!"};
+        // add taxation arguments to this array of strings.
+        final String[] taxList = {"Taxation is theft!","Good ideas do not require force."};
+        final int taxSize = taxList.length;
 
-        final String[] econList = {"End all corporate welfare."};
+        // add economics arguments to this array of strings.
+        final String[] econList = {"End all corporate welfare.", "Corporations control the government. Therefore, we need more government.", "People are greedy. Therefore, we need a government that is made up of people."};
+        final int econSize = econList.length;
 
+        // add foreign policy arguments to this array of strings.
         final String[] warList = {"Free trade with all. Entangling alliances with no one.", "War is the health of the state", "The war on terrorism is a paradox. War is terrorism"};
         final int warSize = warList.length;
 
-
-        final String drugLine = "Who owns your body? You or the government?";
-        final String taxLine = "Taxation is theft!";
-        final String corpLine = "End all corporate welfare.";
-        final String warLine = "Free trade with all. Entangling alliances with no one.";
 
         warButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -65,21 +67,27 @@ public class MainActivity extends AppCompatActivity {
         taxButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                sendLine(taxList[0]);
+                Random rand = new Random();
+                int w = + rand.nextInt(taxSize);
+                sendLine(taxList[w]);
             }
         });
 
         corpButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                sendLine(econList[0]);
+                Random rand = new Random();
+                int w = + rand.nextInt(econSize);
+                sendLine(econList[w]);
             }
         });
 
         drugButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                sendLine(drugList[0]);
+                Random rand = new Random();
+                int w = + rand.nextInt(drugSize);
+                sendLine(drugList[w]);
             }
         });
 
