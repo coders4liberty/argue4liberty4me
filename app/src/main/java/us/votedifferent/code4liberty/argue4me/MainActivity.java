@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
 
         final String[] econList = {"End all corporate welfare."};
 
-        final String[] warList = {"Free trade with all. Entangling alliances with no one.", "War is the health of the state"};
+        final String[] warList = {"Free trade with all. Entangling alliances with no one.", "War is the health of the state", "The war on terrorism is a paradox. War is terrorism"};
         final int warSize = warList.length;
 
 
@@ -51,13 +51,13 @@ public class MainActivity extends AppCompatActivity {
         final String corpLine = "End all corporate welfare.";
         final String warLine = "Free trade with all. Entangling alliances with no one.";
 
-        drugButton.setOnClickListener(new View.OnClickListener() {
+        warButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 
                 Random rand = new Random();
-                int w = + rand.nextInt((warSize) + 1);
-                sendLine(taxList[w]);
+                int w = + rand.nextInt(warSize);
+                sendLine(warList[w]);
 
             }
         });
@@ -76,10 +76,10 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        warButton.setOnClickListener(new View.OnClickListener() {
+        drugButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                sendLine(warList[0]);
+                sendLine(drugList[0]);
             }
         });
 
