@@ -26,8 +26,8 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Try Again"
-            android:id="@+id/tryAgain"
+            android:text="@string/copy_to_clipboard"
+            android:id="@+id/copy"
             android:layout_marginBottom="73dp"
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
@@ -38,6 +38,6 @@
             android:paddingBottom="10dp"
             android:textColor="#ffffff"
             android:background="#606060"
-            android:textSize="40sp" />
+            android:textSize="30sp" />
     </RelativeLayout>
 </LinearLayout>

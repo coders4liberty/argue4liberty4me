@@ -5,4 +5,5 @@
     <string name="drug_policy">DRUG POLICY</string>
     <string name="corporations">ECONOMICS</string>
     <string name="taxation">TAXATION</string>
+    <string name="copy_to_clipboard">Copy to Clipboard</string>
 </resources>
