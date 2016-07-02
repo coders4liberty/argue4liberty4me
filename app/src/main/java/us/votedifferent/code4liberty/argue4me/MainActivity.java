@@ -16,8 +16,7 @@ import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
 
-    // iteration variable for foreign policy
-    public int wi = 0;
+
 
     /**
      * ATTENTION: This was auto-generated to implement the App Indexing API.
@@ -30,33 +29,24 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // grab left button
+        // grab buttons
         final Button taxButton = (Button) findViewById(R.id.taxation);
         Button drugButton = (Button) findViewById(R.id.drug);
         Button warButton = (Button) findViewById(R.id.war);
         Button corpButton = (Button) findViewById(R.id.corp);
 
         // add drug policy arguments to this array of strings.
-        final String[] drugList = {"Who owns your body? You or the government?", "God invented " +
-                "cannabis", "I agree that marijuana is not the most important issue. It's so " +
-                "unimportant I think we should stop wasting money locking people in prison over " +
-                "it and we should stop using it as an excuse to eviscerate the bill of rights."};
+        final String[] drugList = {getString(R.string.drug0), getString(R.string.drug1), getString(R.string.drug2), getString(R.string.drug3)};
         final int drugSize = drugList.length;
 
-        // add taxation arguments to this array of strings.
-        final String[] taxList = {"Taxation is theft!","Good ideas do not require force."};
-        final int taxSize = taxList.length;
+        final String[] warList = {getString(R.string.war0), getString(R.string.war1), getString(R.string.war2)};
+        final int warSize = warList.length;
 
-        // add economics arguments to this array of strings.
-        final String[] econList = {"End all corporate welfare.", "Corporations control the " +
-                "government. Therefore, we need more government.", "People are greedy. Therefore, " +
-                "we need a government that is made up of people."};
+        final String[] econList = {getString(R.string.econ0), getString(R.string.econ1), getString(R.string.econ2)};
         final int econSize = econList.length;
 
-        // add foreign policy arguments to this array of strings.
-        final String[] warList = {"Free trade with all. Entangling alliances with no one.", "War is " +
-                "the health of the state", "The war on terrorism is a paradox. War is terrorism"};
-        final int warSize = warList.length;
+        final String[] taxList = {getString(R.string.tax0), getString(R.string.tax1)};
+        final int taxSize = taxList.length;
 
 
         warButton.setOnClickListener(new View.OnClickListener() {

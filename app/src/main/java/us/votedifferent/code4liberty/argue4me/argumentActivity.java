@@ -53,7 +53,7 @@ public class argumentActivity extends AppCompatActivity {
                 // Set the clipboard's primary clip.
                 clipboard.setPrimaryClip(clip);
                 TextView newLine = (TextView) findViewById(R.id.copy);
-                String copied = "COPIED TO CLIPBOARD";
+                String copied = getString(R.string.copied);
                 newLine.setText(copied);
             }
         });
