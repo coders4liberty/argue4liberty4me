@@ -6,19 +6,34 @@
     <string name="corporations">ECONOMICS</string>
     <string name="taxation">TAXATION</string>
     <string name="copy_to_clipboard">Copy to Clipboard</string>
+    <string name="copied">COPIED TO CLIPBOARD</string>
+
+    <!-- Drug Policy arguments -->
     <string name="drug0">Who owns your body? You or the government?</string>
     <string name="drug1">God invented cannabis.</string>
-    <string name="drug2">I agree that marijuana is not the most important issue. It is so unimportant I think we should stop wasting money locking people in prison over it and we should stop using it as an excuse to eviscerate the bill of rights.</string>
-    <sting name="drug5">Cops shouldn't put their lives on the line to stop a plant.</string>
-    <string name="drug3">You own your mind. You own your body.</string>
+    <string name="drug2">Drugs are not an important issue. Stop wasting money locking people in prison over it</string>
+    <string name="drug3">Drugs are not an important issue. Stop using it as an excuse to eviscerate the bill of rights.</string>
+    <string name="drug4">Cops shouldn't put their lives on the line to stop a plant.</string>
+    <string name="drug5">You own your mind. You own your body.</string>
+
+    <!-- Taxation arguments -->
     <string name="tax0">Taxation is theft!</string>
     <string name="tax1">Good ideas do not require force.</string>
+    <string name="tax2">Taxation is also the threat of armed robbery /@VoluntaryV</string>
+    <string name="tax3">Taxation is also the threat of kidnapping /@VoluntaryV</string>
+    <string name="tax4">children are taught by corrupt teachers who accept that schools are funded by taxation. /@ruwart</string>
+    <string name="tax5">Taxation is a threat of murder for those who defend themselves from this thuggish aggression. /@VoluntaryV</string>
+    <string name="tax6">Taxation isn't merely theft, it's ongoing, it's slavery. /@PunkRockLiberty</string>
+
+    <!-- Economic arguments -->
     <string name="econ0">End all corporate welfare.</string>
     <string name="econ1">Corporations control the government. Therefore, we need more government.</string>
     <string name="econ2">People are greedy. Therefore, we need a government that is made up of people.</string>
     <string name="econ3">Wouldn't the most libertarian thing be to let the country run itself?</string>
+
+    <!-- War arguments -->
     <string name="war0">Free trade with all. Entangling alliances with no one.</string>
     <string name="war1">War is the health of the state.</string>
     <string name="war2">The war on terrorism is a contradiction. War is terrorism.</string>
-    <string name="copied">COPIED TO CLIPBOARD</string>
+
 </resources>

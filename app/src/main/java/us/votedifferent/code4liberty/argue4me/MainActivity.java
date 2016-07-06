@@ -35,17 +35,23 @@ public class MainActivity extends AppCompatActivity {
         Button warButton = (Button) findViewById(R.id.war);
         Button corpButton = (Button) findViewById(R.id.corp);
 
-        // add drug policy arguments to this array of strings.
-        final String[] drugList = {getString(R.string.drug0), getString(R.string.drug1), getString(R.string.drug2), getString(R.string.drug3)};
+        // add arguments to these arrays of strings.
+        final String[] drugList = {getString(R.string.drug0), getString(R.string.drug1),
+                getString(R.string.drug2), getString(R.string.drug3), getString(R.string.drug4),
+                getString(R.string.drug5)};
         final int drugSize = drugList.length;
 
-        final String[] warList = {getString(R.string.war0), getString(R.string.war1), getString(R.string.war2)};
+        final String[] warList = {getString(R.string.war0), getString(R.string.war1),
+                getString(R.string.war2)};
         final int warSize = warList.length;
 
-        final String[] econList = {getString(R.string.econ0), getString(R.string.econ1), getString(R.string.econ2)};
+        final String[] econList = {getString(R.string.econ0), getString(R.string.econ1),
+                getString(R.string.econ2)};
         final int econSize = econList.length;
 
-        final String[] taxList = {getString(R.string.tax0), getString(R.string.tax1)};
+        final String[] taxList = {getString(R.string.tax0), getString(R.string.tax1),
+                getString(R.string.tax2), getString(R.string.tax3), getString(R.string.tax4),
+                getString(R.string.tax5),  getString(R.string.tax6),};
         final int taxSize = taxList.length;
 
 
