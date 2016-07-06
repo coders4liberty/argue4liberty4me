@@ -8,6 +8,9 @@
     <string name="copy_to_clipboard">Copy to Clipboard</string>
     <string name="copied">COPIED TO CLIPBOARD</string>
 
+    <!-- Please limit the arguments to 144 characters {including the author) and use twitter handles
+    for attribution whenever possible -->
+
     <!-- Drug Policy arguments -->
     <string name="drug0">Who owns your body? You or the government?</string>
     <string name="drug1">God invented cannabis.</string>
@@ -35,5 +38,9 @@
     <string name="war0">Free trade with all. Entangling alliances with no one.</string>
     <string name="war1">War is the health of the state.</string>
     <string name="war2">The war on terrorism is a contradiction. War is terrorism.</string>
+    <string name="war3">Are the 900 of bases the US has around the globe really necessary for national defense? @CraigBowden2020</string>
+    <string name="war4">The US has been in a constant state of responding to conflicts that don't involve U.S. interests or wars for profit @CraigBowden2020</string>
+    <string name="war5">escalations continue because of the foreign policy of interventionalism. @CraigBowden2020</string>
+    <string name="war5">Interventionism has cost the American taxpayer trillions of dollars and the lives of young men and women. @CraigBowden2020</string>
 
 </resources>
