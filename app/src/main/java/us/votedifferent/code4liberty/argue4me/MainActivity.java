@@ -42,7 +42,8 @@ public class MainActivity extends AppCompatActivity {
         final int drugSize = drugList.length;
 
         final String[] warList = {getString(R.string.war0), getString(R.string.war1),
-                getString(R.string.war2)};
+                getString(R.string.war2), getString(R.string.war3), getString(R.string.war4),
+                getString(R.string.war5), getString(R.string.war6)};
         final int warSize = warList.length;
 
         final String[] econList = {getString(R.string.econ0), getString(R.string.econ1),
