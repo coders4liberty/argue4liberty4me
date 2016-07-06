@@ -38,12 +38,19 @@ public class MainActivity extends AppCompatActivity {
         // add arguments to these arrays of strings.
         final String[] drugList = {getString(R.string.drug0), getString(R.string.drug1),
                 getString(R.string.drug2), getString(R.string.drug3), getString(R.string.drug4),
-                getString(R.string.drug5)};
+                getString(R.string.drug5), getString(R.string.drug6), getString(R.string.drug7),
+                getString(R.string.drug8), getString(R.string.drug9), getString(R.string.drug10),
+                getString(R.string.drug11), getString(R.string.drug12), getString(R.string.drug13),
+                getString(R.string.drug14), getString(R.string.drug15), getString(R.string.drug16),
+                getString(R.string.drug17)};
         final int drugSize = drugList.length;
 
         final String[] warList = {getString(R.string.war0), getString(R.string.war1),
                 getString(R.string.war2), getString(R.string.war3), getString(R.string.war4),
-                getString(R.string.war5), getString(R.string.war6)};
+                getString(R.string.war5), getString(R.string.war6), getString(R.string.war6),
+                getString(R.string.war7), getString(R.string.war8), getString(R.string.war9),
+                getString(R.string.war10), getString(R.string.war11), getString(R.string.war12),
+                getString(R.string.war13), getString(R.string.war14)};
         final int warSize = warList.length;
 
         final String[] econList = {getString(R.string.econ0), getString(R.string.econ1),
