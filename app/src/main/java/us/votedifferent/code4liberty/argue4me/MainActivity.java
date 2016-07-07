@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
         Button drugButton = (Button) findViewById(R.id.drug);
         Button warButton = (Button) findViewById(R.id.war);
         Button corpButton = (Button) findViewById(R.id.corp);
+        Button privButton = (Button) findViewById(R.id.privacyButton);
 
         // add arguments to these arrays of strings.
         final String[] drugList = {getString(R.string.drug0), getString(R.string.drug1),
@@ -62,6 +63,11 @@ public class MainActivity extends AppCompatActivity {
                 getString(R.string.tax5),  getString(R.string.tax6), getString(R.string.tax7)};
         final int taxSize = taxList.length;
 
+        final String[] privList = {getString(R.string.privacy1), getString(R.string.privacy2),
+                getString(R.string.privacy3), getString(R.string.privacy4), getString(R.string.privacy5),
+                getString(R.string.privacy6), getString(R.string.privacy7)};
+        final int privSize = privList.length;
+
 
         warButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -70,7 +76,6 @@ public class MainActivity extends AppCompatActivity {
                 Random rand = new Random();
                 int w = + rand.nextInt(warSize);
                 sendLine(warList[w]);
-
             }
         });
 
@@ -98,6 +103,15 @@ public class MainActivity extends AppCompatActivity {
                 Random rand = new Random();
                 int w = + rand.nextInt(drugSize);
                 sendLine(drugList[w]);
+            }
+        });
+
+        privButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Random rand = new Random();
+                int w = + rand.nextInt(privSize);
+                sendLine(privList[w]);
             }
         });
 
