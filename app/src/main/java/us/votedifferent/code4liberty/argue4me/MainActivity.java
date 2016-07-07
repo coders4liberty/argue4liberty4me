@@ -65,7 +65,8 @@ public class MainActivity extends AppCompatActivity {
 
         final String[] privList = {getString(R.string.privacy1), getString(R.string.privacy2),
                 getString(R.string.privacy3), getString(R.string.privacy4), getString(R.string.privacy5),
-                getString(R.string.privacy6), getString(R.string.privacy7)};
+                getString(R.string.privacy6), getString(R.string.privacy7), getString(R.string.privacy8),
+                getString(R.string.privacy9)};
         final int privSize = privList.length;
 
 
