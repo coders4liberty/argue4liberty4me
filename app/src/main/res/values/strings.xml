@@ -41,12 +41,21 @@
     <string name="tax5">Taxation is a threat of murder for those who defend themselves from this thuggish aggression. \@VoluntaryV</string>
     <string name="tax6">Taxation isn\'t merely theft, it\'s ongoing, it\'s slavery. \@PunkRockLiberty</string>
     <string name="tax7">Taxation is murder.</string>
-    
+    <string name="tax8">The average household pays between $6000 to $8000 in federal, state and county taxes and only get bigger government in return. \@LurieArtie</string>
+    <string name="tax9">Repeal the state sales tax. \@LurieArtie</string>
+    <string name="tax10">Reduce the size of our state government down to its constitutional limits. \@LurieArtie</string>
+    <string name="tax11">Give taxpayers the freedom to keep their hard-earned money and use it as they think best. \@LurieArtie</string>
+    <string name="tax11">The state can't do anything well except recklessly spending our tax dollars. \@LurieArtie</string>
+
+
+
     <!-- Economic arguments -->
     <string name="econ0">End all corporate welfare.</string>
     <string name="econ1">Corporations control the government. Therefore, we need more government.</string>
     <string name="econ2">People are greedy. Therefore, we need a government that is made up of people.</string>
     <string name="econ3">Wouldn\'t the most libertarian thing be to let the country run itself?</string>
+    <string name="econ4">Let's stop wasting money on pork and unnecessary programs that do more harm than good. \@LurieArtie</string>
+
 
     <!-- War arguments -->
     <string name="war0">Free trade with all. Entangling alliances with no one.</string>
@@ -75,5 +84,13 @@
     <string name="privacy7">The only measure that can be taken to ensure our liberty is protected is a full repeal of the USA Patriot Act. \@CraigBowden2020</string>
     <string name="privacy8">We shall not live in fear of any man, most especially our own government. \@CraigBowden2020</string>
     <string name="privacy9">To ensure the rights of the American people are protected, address issues one at a time.  \@CraigBowden2020</string>
+
+    <!-- gun arguments -->
+    <string name="gun0">Gun control laws do the exact opposite of the very thing it is trying to accomplish, to keep people safe! \@LurieArtie</string>
+    <string name="gun1">Gun regulations disarm innocent civilians while doing nothing to prevent the violent criminals from committing atrocities \@LurieArtie</string>
+    <string name="gun2">"Gun Free zones" are nothing more than advertisements for places criminals can go to and commit their crimes. \@LurieArtie</string>
+    <string name="gun3">You should have the ability to protect yourself anywhere you go. \@LurieArtie</string>
+    <string name="gun4">Repeal all gun control laws and honor the 2nd amendment, so you can protect your family and keep them safe. \@LurieArtie</string>
+
 
 </resources>
