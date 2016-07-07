@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
 
         final String[] taxList = {getString(R.string.tax0), getString(R.string.tax1),
                 getString(R.string.tax2), getString(R.string.tax3), getString(R.string.tax4),
-                getString(R.string.tax5),  getString(R.string.tax6),};
+                getString(R.string.tax5),  getString(R.string.tax6), getString(R.string.tax7)};
         final int taxSize = taxList.length;
 
 
