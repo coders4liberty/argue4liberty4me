@@ -55,12 +55,14 @@ public class MainActivity extends AppCompatActivity {
         final int warSize = warList.length;
 
         final String[] econList = {getString(R.string.econ0), getString(R.string.econ1),
-                getString(R.string.econ2)};
+                getString(R.string.econ2), getString(R.string.econ3), getString(R.string.econ3)};
         final int econSize = econList.length;
 
         final String[] taxList = {getString(R.string.tax0), getString(R.string.tax1),
                 getString(R.string.tax2), getString(R.string.tax3), getString(R.string.tax4),
-                getString(R.string.tax5),  getString(R.string.tax6), getString(R.string.tax7)};
+                getString(R.string.tax5),  getString(R.string.tax6), getString(R.string.tax7),
+                getString(R.string.tax8),  getString(R.string.tax9), getString(R.string.tax10),
+                getString(R.string.tax11),  getString(R.string.tax12)};
         final int taxSize = taxList.length;
 
         final String[] privList = {getString(R.string.privacy1), getString(R.string.privacy2),
