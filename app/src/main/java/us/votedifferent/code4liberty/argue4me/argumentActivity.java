@@ -50,6 +50,7 @@ public class argumentActivity extends AppCompatActivity {
 // the Intent object created previously
 
                 if (receivedArgument.length() < 129) {
+
                     String clipString = receivedArgument + getString(R.string.hashtag);
                     ClipData clip = ClipData.newPlainText("argument", clipString);
                     // Set the clipboard's primary clip.
@@ -57,6 +58,7 @@ public class argumentActivity extends AppCompatActivity {
                     TextView newLine = (TextView) findViewById(R.id.copy);
                     String copied = getString(R.string.copied);
                     newLine.setText(copied);
+
                 }
 
                 else if (receivedArgument.length() < 113) {
@@ -76,7 +78,6 @@ public class argumentActivity extends AppCompatActivity {
                     String copied = getString(R.string.copied);
                     newLine.setText(copied);
                 }
-
 
 
 
