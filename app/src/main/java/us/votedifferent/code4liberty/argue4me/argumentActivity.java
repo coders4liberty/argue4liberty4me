@@ -49,7 +49,16 @@ public class argumentActivity extends AppCompatActivity {
 // Creates a clip object with the Intent in it. Its label is "Intent" and its data is
 // the Intent object created previously
 
-                if (receivedArgument.length() < 129) {
+                if (receivedArgument.length() < 111) {
+                    String clipString = receivedArgument + getString(R.string.hashtag) + getString(R.string.coders4liberty);
+                    ClipData clip = ClipData.newPlainText("argument", clipString);
+                    clipboard.setPrimaryClip(clip);
+                    TextView newLine = (TextView) findViewById(R.id.copy);
+                    String copied = getString(R.string.copied);
+                    newLine.setText(copied);
+                }
+
+                else if (receivedArgument.length() < 128) {
 
                     String clipString = receivedArgument + getString(R.string.hashtag);
                     ClipData clip = ClipData.newPlainText("argument", clipString);
@@ -59,15 +68,6 @@ public class argumentActivity extends AppCompatActivity {
                     String copied = getString(R.string.copied);
                     newLine.setText(copied);
 
-                }
-
-                else if (receivedArgument.length() < 113) {
-                    String clipString = receivedArgument + getString(R.string.hashtag) + getString(R.string.coders4liberty);
-                    ClipData clip = ClipData.newPlainText("argument", clipString);
-                    clipboard.setPrimaryClip(clip);
-                    TextView newLine = (TextView) findViewById(R.id.copy);
-                    String copied = getString(R.string.copied);
-                    newLine.setText(copied);
                 }
 
                 else  {
