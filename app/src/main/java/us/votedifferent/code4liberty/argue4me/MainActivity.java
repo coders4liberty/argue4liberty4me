@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
         Button warButton = (Button) findViewById(R.id.war);
         Button corpButton = (Button) findViewById(R.id.corp);
         Button privButton = (Button) findViewById(R.id.privacyButton);
+        Button gunButton = (Button) findViewById(R.id.guns);
 
         // add arguments to these arrays of strings.
         final String[] drugList = {getString(R.string.drug0), getString(R.string.drug1),
@@ -55,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
         final int warSize = warList.length;
 
         final String[] econList = {getString(R.string.econ0), getString(R.string.econ1),
-                getString(R.string.econ2), getString(R.string.econ3), getString(R.string.econ3)};
+                getString(R.string.econ2), getString(R.string.econ3), getString(R.string.econ4)};
         final int econSize = econList.length;
 
         final String[] taxList = {getString(R.string.tax0), getString(R.string.tax1),
@@ -70,6 +71,10 @@ public class MainActivity extends AppCompatActivity {
                 getString(R.string.privacy6), getString(R.string.privacy7), getString(R.string.privacy8),
                 getString(R.string.privacy9)};
         final int privSize = privList.length;
+
+        final String[] gunList = {getString(R.string.gun0), getString(R.string.gun1),
+                getString(R.string.gun2), getString(R.string.gun3), getString(R.string.gun4)};
+        final int gunSize = gunList.length;
 
 
         warButton.setOnClickListener(new View.OnClickListener() {
@@ -115,6 +120,15 @@ public class MainActivity extends AppCompatActivity {
                 Random rand = new Random();
                 int w = + rand.nextInt(privSize);
                 sendLine(privList[w]);
+            }
+        });
+
+        gunButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Random rand = new Random();
+                int w = + rand.nextInt(gunSize);
+                sendLine(gunList[w]);
             }
         });
 

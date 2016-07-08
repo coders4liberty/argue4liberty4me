@@ -48,13 +48,39 @@ public class argumentActivity extends AppCompatActivity {
                         getSystemService(Context.CLIPBOARD_SERVICE);
 // Creates a clip object with the Intent in it. Its label is "Intent" and its data is
 // the Intent object created previously
-                ClipData clip = ClipData.newPlainText("argument", receivedArgument);
 
-                // Set the clipboard's primary clip.
-                clipboard.setPrimaryClip(clip);
-                TextView newLine = (TextView) findViewById(R.id.copy);
-                String copied = getString(R.string.copied);
-                newLine.setText(copied);
+                if (receivedArgument.length() < 129) {
+                    String clipString = receivedArgument + getString(R.string.hashtag);
+                    ClipData clip = ClipData.newPlainText("argument", clipString);
+                    // Set the clipboard's primary clip.
+                    clipboard.setPrimaryClip(clip);
+                    TextView newLine = (TextView) findViewById(R.id.copy);
+                    String copied = getString(R.string.copied);
+                    newLine.setText(copied);
+                }
+
+                else if (receivedArgument.length() < 113) {
+                    String clipString = receivedArgument + getString(R.string.hashtag) + getString(R.string.coders4liberty);
+                    ClipData clip = ClipData.newPlainText("argument", clipString);
+                    clipboard.setPrimaryClip(clip);
+                    TextView newLine = (TextView) findViewById(R.id.copy);
+                    String copied = getString(R.string.copied);
+                    newLine.setText(copied);
+                }
+
+                else  {
+                    String clipString = receivedArgument;
+                    ClipData clip = ClipData.newPlainText("argument", clipString);
+                    clipboard.setPrimaryClip(clip);
+                    TextView newLine = (TextView) findViewById(R.id.copy);
+                    String copied = getString(R.string.copied);
+                    newLine.setText(copied);
+                }
+
+
+
+
+
             }
         });
 

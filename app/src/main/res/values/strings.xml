@@ -19,16 +19,16 @@
     <string name="drug4">Cops shouldn\'t put their lives on the line to stop a plant.</string>
     <string name="drug5">You own your mind. You own your body.</string>
     <string name="drug6">Treat addictions as a medical issue instead of a criminal one. \@CraigBowden2020</string>
-    <string name="drug7">Nearly &#8531; of all people in jails and prisons are non violent drug offenders and more than &#189; of that is marijuana \@CraigBowden2020</string>
+    <string name="drug7">Nearly &#8531; of all people in prison are non violent drug offenders and more than &#189; of that is marijuana \@CraigBowden2020</string>
     <string name="drug8">Nonviolent drug offenders only made a choice for their own bodies \@CraigBowden2020</string>
     <string name="drug9">Legalization of marijuana would eliminate 1/6 of jail residency \@CraigBowden2020</string>
     <string name="drug10">Legalization of marijuana takes away a vital cash crop from the cartels in Mexico \@CraigBowden2020</string>
     <string name="drug11">Taking away a vital cash crop from the cartels in Mexico will decrease the violence in the border region. \@CraigBowden2020</string>
     <string name="drug12">Legalization of marijuana also has the potential to create thousands of jobs in the United States. \@CraigBowden2020</string>
-    <string name="drug13">Most drug users are not criminals. They are folks who unfortunately started using an addictive substance that is bad for them. \@CraigBowden2020</string>
+    <string name="drug13">Most drug users are not criminals. They are folks who unfortunately started using an addictive substance. \@CraigBowden2020</string>
     <string name="drug14">Look at is rehabilitation for people who want to break the cycle and become whole again. \@CraigBowden2020</string>
     <string name="drug15">Currently, we spend approximately $33,000 per year to just lock up a nonviolent drug offender \@CraigBowden2020</string>
-    <string name="drug16">Incarceration of nonviolent drug offenders treats a temporary symptom, but does nothing to cure the disease. \@CraigBowden2020</string>
+    <string name="drug16">Incarceration of drug offenders treats a temporary symptom, but does nothing to cure the disease. \@CraigBowden2020</string>
     <string name="drug17">Drug charges on your record makes it harder to be a productive member of society. \@CraigBowden2020</string>
     <string name="drug18">You had me at "You own your body."</string>
 
@@ -41,7 +41,7 @@
     <string name="tax5">Taxation is a threat of murder for those who defend themselves from this thuggish aggression. \@VoluntaryV</string>
     <string name="tax6">Taxation isn\'t merely theft, it\'s ongoing, it\'s slavery. \@PunkRockLiberty</string>
     <string name="tax7">Taxation is murder.</string>
-    <string name="tax8">The average household pays between $6000 to $8000 in federal, state and county taxes and only get bigger government in return. \@LurieArtie</string>
+    <string name="tax8">The average household pays between $6000 to $8000 in taxes and only get bigger government in return. \@LurieArtie</string>
     <string name="tax9">Repeal the state sales tax. \@LurieArtie</string>
     <string name="tax10">Reduce the size of our state government down to its constitutional limits. \@LurieArtie</string>
     <string name="tax11">Give taxpayers the freedom to keep their hard-earned money and use it as they think best. \@LurieArtie</string>
@@ -62,11 +62,11 @@
     <string name="war1">War is the health of the state.</string>
     <string name="war2">The war on terrorism is a contradiction. War is terrorism.</string>
     <string name="war3">Are the 900 of bases the US has around the globe really necessary for national defense? \@CraigBowden2020</string>
-    <string name="war4">The US has been in a constant state of responding to conflicts that don\'t involve U.S. interests or wars for profit\ @CraigBowden2020</string>
+    <string name="war4">The US has been in a constant state of responding to conflicts that don\'t involve U.S. interests \@CraigBowden2020</string>
     <string name="war5">Escalations continue because of the foreign policy of interventionism. \@CraigBowden2020</string>
     <string name="war6">Interventionism has cost the American taxpayer trillions of dollars and the lives of young men and women. \@CraigBowden2020</string>
     <string name="war7">Withdrawal from countries we have been stationed in for decades will save us billions in the DoD budget. \@CraigBowden2020</string>
-    <string name="war8">Work with military leaders to determine the mission, strategy and need for bases overseas, and begin to bring our troops home. \@CraigBowden2020</string>
+    <string name="war8">Work with military leaders to determine a strategy to bring our troops home. \@CraigBowden2020</string>
     <string name="war9">Keep the United States out of conflicts where our citizens are not in harms way. \@CraigBowden2020</string>
     <string name="war10">It is time the Department of Defense act in regard to its assignment: that of defense. \@CraigBowden2020</string>
     <string name="war11">I will not send our young men and women into a conflict that isn\'t to defend our nation. \@CraigBowden2020</string>
@@ -75,10 +75,10 @@
     <string name="war14">If we have not declared war on a nation, we should not use drones in that nation. \@CraigBowden2020</string>
 
     <!-- privacy arguments -->
-    <string name="privacy1">Repeal the USA Patriot Act in order to preserve our civil liberties and protect the privacy of U.S. citizens. \@CraigBowden2020</string>
+    <string name="privacy1">Repeal the USA Patriot Act in order to preserve our civil liberties and protect our privacy. \@CraigBowden2020</string>
     <string name="privacy2">Far too often legislation is passed hurriedly, without worrying about the possible implications. \@CraigBowden2020</string>
     <string name="privacy3">The USA Patriot Act is vast, and vague in scope. \@CraigBowden2020</string>
-    <string name="privacy4">The USA Patriot Act is all-encompassing in the power it grants the executive branch, that it is easily abused. \@CraigBowden2020</string>
+    <string name="privacy4">The USA PATRIOT Act is all-encompassing in the power it grants the executive branch and is easily abused. \@CraigBowden2020</string>
     <string name="privacy5">The USA Patriot Act blatantly contradicting two key amendments in our Bill of Rights. (the 4th and 5th) \@CraigBowden2020</string>
     <string name="privacy6">The USA Patriot Act creates a greater risk of the loss of freedom than terrorists pose. \@CraigBowden2020</string>
     <string name="privacy7">The only measure that can be taken to ensure our liberty is protected is a full repeal of the USA Patriot Act. \@CraigBowden2020</string>
@@ -87,10 +87,13 @@
 
     <!-- gun arguments -->
     <string name="gun0">Gun control laws do the exact opposite of the very thing it is trying to accomplish, to keep people safe! \@LurieArtie</string>
-    <string name="gun1">Gun regulations disarm innocent civilians while doing nothing to prevent the violent criminals from committing atrocities \@LurieArtie</string>
+    <string name="gun1">Gun regulations disarm innocent civilians and do not stop violent criminals from committing atrocities \@LurieArtie</string>
     <string name="gun2">"Gun Free zones" are nothing more than advertisements for places criminals can go to and commit their crimes. \@LurieArtie</string>
     <string name="gun3">You should have the ability to protect yourself anywhere you go. \@LurieArtie</string>
     <string name="gun4">Repeal all gun control laws and honor the 2nd amendment, so you can protect your family and keep them safe. \@LurieArtie</string>
+
+    <string name="hashtag"> \#argue4Liberty</string>
+    <string name="coders4liberty"> \@coders4liberty</string>
 
 
 </resources>
