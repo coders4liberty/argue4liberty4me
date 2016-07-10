@@ -69,7 +69,9 @@ public class MainActivity extends AppCompatActivity {
         final String[] privList = {getString(R.string.privacy1), getString(R.string.privacy2),
                 getString(R.string.privacy3), getString(R.string.privacy4), getString(R.string.privacy5),
                 getString(R.string.privacy6), getString(R.string.privacy7), getString(R.string.privacy8),
-                getString(R.string.privacy9)};
+                getString(R.string.privacy9), getString(R.string.privacy10), getString(R.string.privacy11),
+                getString(R.string.privacy12), getString(R.string.privacy13), getString(R.string.privacy14),
+                getString(R.string.privacy15), getString(R.string.privacy16), getString(R.string.privacy17)};
         final int privSize = privList.length;
 
         final String[] gunList = {getString(R.string.gun0), getString(R.string.gun1),
