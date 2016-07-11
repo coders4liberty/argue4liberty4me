@@ -56,14 +56,19 @@ public class MainActivity extends AppCompatActivity {
         final int warSize = warList.length;
 
         final String[] econList = {getString(R.string.econ0), getString(R.string.econ1),
-                getString(R.string.econ2), getString(R.string.econ3), getString(R.string.econ4)};
+                getString(R.string.econ2), getString(R.string.econ3), getString(R.string.econ4),
+                getString(R.string.econ5), getString(R.string.econ6), getString(R.string.econ7),
+                getString(R.string.econ8), getString(R.string.econ9), getString(R.string.econ10),
+                getString(R.string.econ11), getString(R.string.econ12), getString(R.string.econ13)};
         final int econSize = econList.length;
 
         final String[] taxList = {getString(R.string.tax0), getString(R.string.tax1),
                 getString(R.string.tax2), getString(R.string.tax3), getString(R.string.tax4),
                 getString(R.string.tax5),  getString(R.string.tax6), getString(R.string.tax7),
                 getString(R.string.tax8),  getString(R.string.tax9), getString(R.string.tax10),
-                getString(R.string.tax11),  getString(R.string.tax12)};
+                getString(R.string.tax11),  getString(R.string.tax12), getString(R.string.tax12),
+                getString(R.string.tax13),  getString(R.string.tax14), getString(R.string.tax15),
+                getString(R.string.tax16),  getString(R.string.tax17), getString(R.string.tax18)};
         final int taxSize = taxList.length;
 
         final String[] privList = {getString(R.string.privacy1), getString(R.string.privacy2),

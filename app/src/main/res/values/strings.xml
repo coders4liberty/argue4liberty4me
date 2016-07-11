@@ -46,16 +46,27 @@
     <string name="tax10">Reduce the size of our state government down to its constitutional limits. \@LurieArtie</string>
     <string name="tax11">Give taxpayers the freedom to keep their hard-earned money and use it as they think best. \@LurieArtie</string>
     <string name="tax12">The state can\'t do anything well except recklessly spending our tax dollars. \@LurieArtie</string>
-
-
-
+    <string name="tax13">Taxation is nothing but a euphemism for armed robbery. \@JimFulner</string>
+    <string name="tax14">Property tax is renting the land that you supposedly own from the government. \@JimFulner</string>
+    <string name="tax15">All services should be provided by the free market via either user fees or donations. \@JimFulner</string>
+    <string name="tax16">Private businesses have a vested interest in providing services in the absence of government. \@JimFulner</string>
+    <string name="tax17">Services should be paid for by those who directly use them. \@JimFulner</string>
+    <string name="tax18">Business owners have a vested interest in subsidizing public services such as roads. \@JimFulner</string>
     <!-- Economic arguments -->
     <string name="econ0">End all corporate welfare.</string>
     <string name="econ1">Corporations control the government. Therefore, we need more government.</string>
     <string name="econ2">People are greedy. Therefore, we need a government that is made up of people.</string>
     <string name="econ3">Wouldn\'t the most libertarian thing be to let the country run itself?</string>
     <string name="econ4">Let\'s stop wasting money on pork and unnecessary programs that do more harm than good. \@LurieArtie</string>
-
+    <string name="econ5">Government monopoly on the water system is what made the Flint Water Crisis possible in the first place. \@JimFulner</string>
+    <string name="econ6">Flint did not seek competition in the market to reduce costs while improving services. \@JimFulner</string>
+    <string name="econ7">Democrats and Republicans forgo addressing the root of the problem in lieu of partisan propaganda. \@JimFulner</string>
+    <string name="econ8">Free Market regulation, where mistreating customers leads to lost customers, is a natural answer to short sighted schemes. \@JimFulner</string>
+    <string name="econ9">Libertarians envision a society where people may choose to share freely with one another. \@JimFulner</string>
+    <string name="econ10">Free Software grants users access to the source code, and allows  them to freely change, improve, and re-distribute the code. \@JimFulner</string>
+    <string name="econ11">Officials would benefit the lives of their constituents by encouraging the ethos and practices of the free software movement. \@JimFulner</string>
+    <string name="econ12">Use of "Free" operating systems and software in schools would reduce costs. \@JimFulner</string>
+    <string name="econ13">Use of "Free" software in schools  provide students with the opportunity to participate in the software community. \@JimFulner</string>
 
     <!-- War arguments -->
     <string name="war0">Free trade with all. Entangling alliances with no one.</string>
