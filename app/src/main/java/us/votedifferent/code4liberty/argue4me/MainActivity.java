@@ -36,6 +36,8 @@ public class MainActivity extends AppCompatActivity {
         Button corpButton = (Button) findViewById(R.id.corp);
         Button privButton = (Button) findViewById(R.id.privacyButton);
         Button gunButton = (Button) findViewById(R.id.guns);
+        Button polButton = (Button) findViewById(R.id.police);
+        Button eduButton = (Button) findViewById(R.id.education);
 
         // add arguments to these arrays of strings.
         final String[] drugList = {getString(R.string.drug0), getString(R.string.drug1),
@@ -44,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
                 getString(R.string.drug8), getString(R.string.drug9), getString(R.string.drug10),
                 getString(R.string.drug11), getString(R.string.drug12), getString(R.string.drug13),
                 getString(R.string.drug14), getString(R.string.drug15), getString(R.string.drug16),
-                getString(R.string.drug17), getString(R.string.drug18)};
+                getString(R.string.drug17), getString(R.string.drug18), getString(R.string.drug19)};
         final int drugSize = drugList.length;
 
         final String[] warList = {getString(R.string.war0), getString(R.string.war1),
@@ -59,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
                 getString(R.string.econ2), getString(R.string.econ3), getString(R.string.econ4),
                 getString(R.string.econ5), getString(R.string.econ6), getString(R.string.econ7),
                 getString(R.string.econ8), getString(R.string.econ9), getString(R.string.econ10),
-                getString(R.string.econ11), getString(R.string.econ12), getString(R.string.econ13)};
+                getString(R.string.econ11)};
         final int econSize = econList.length;
 
         final String[] taxList = {getString(R.string.tax0), getString(R.string.tax1),
@@ -82,6 +84,15 @@ public class MainActivity extends AppCompatActivity {
         final String[] gunList = {getString(R.string.gun0), getString(R.string.gun1),
                 getString(R.string.gun2), getString(R.string.gun3), getString(R.string.gun4)};
         final int gunSize = gunList.length;
+
+        final String[] polList = {getString(R.string.pol0), getString(R.string.pol1),
+                getString(R.string.pol2), getString(R.string.pol3), getString(R.string.pol4),
+                getString(R.string.pol5), getString(R.string.pol6), getString(R.string.pol7),
+                getString(R.string.pol8)};
+        final int polSize = polList.length;
+
+        final String[] eduList = {getString(R.string.edu1), getString(R.string.edu2)};
+        final int eduSize = eduList.length;
 
 
         warButton.setOnClickListener(new View.OnClickListener() {
@@ -136,6 +147,24 @@ public class MainActivity extends AppCompatActivity {
                 Random rand = new Random();
                 int w = + rand.nextInt(gunSize);
                 sendLine(gunList[w]);
+            }
+        });
+
+        eduButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Random rand = new Random();
+                int w = + rand.nextInt(eduSize);
+                sendLine(eduList[w]);
+            }
+        });
+
+        polButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Random rand = new Random();
+                int w = + rand.nextInt(polSize);
+                sendLine(polList[w]);
             }
         });
 

@@ -7,6 +7,11 @@
     <string name="taxation">TAXATION</string>
     <string name="copy_to_clipboard">Copy to Clipboard</string>
     <string name="copied">COPIED TO CLIPBOARD</string>
+    <string name="hashtag">\u0020 #argue4Liberty</string>
+    <string name="coders4liberty">\u0020 \@coders4liberty</string>
+    <string name="education">EDUCATION</string>
+    <string name="police">POLICE</string>
+    <string name="policeButton">POLICE</string>
 
     <!-- Please limit the arguments to 144 characters {including the author) and use twitter handles
     for attribution whenever possible, don't forget the \ before the @ and before ' -->
@@ -31,6 +36,8 @@
     <string name="drug16">Incarceration of drug offenders treats a temporary symptom, but does nothing to cure the disease. \@CraigBowden2020</string>
     <string name="drug17">Drug charges on your record makes it harder to be a productive member of society. \@CraigBowden2020</string>
     <string name="drug18">You had me at "You own your body."</string>
+    <string name="drug19">Is it worth asking our LEOs to risk their lives daily to enforce these laws? \@RicMcCluskey</string>
+    <string name="drug20">Military equipment has been flowing from the federal government to local police under the guise of the war on drugs. \@haydentiff</string>
 
     <!-- Taxation arguments -->
     <string name="tax0">Taxation is theft!</string>
@@ -65,8 +72,10 @@
     <string name="econ9">Libertarians envision a society where people may choose to share freely with one another. \@JimFulner</string>
     <string name="econ10">Free Software grants users access to the source code, and allows  them to freely change, improve, and re-distribute the code. \@JimFulner</string>
     <string name="econ11">Officials would benefit the lives of their constituents by encouraging the ethos and practices of the free software movement. \@JimFulner</string>
-    <string name="econ12">Use of "Free" operating systems and software in schools would reduce costs. \@JimFulner</string>
-    <string name="econ13">Use of "Free" software in schools  provide students with the opportunity to participate in the software community. \@JimFulner</string>
+
+    <!--education arguments -->
+    <string name="edu1">Use of "Free" operating systems and software in schools would reduce costs. \@JimFulner</string>
+    <string name="edu2">Use of "Free" software in schools  provide students with the opportunity to participate in the software community. \@JimFulner</string>
 
     <!-- War arguments -->
     <string name="war0">Free trade with all. Entangling alliances with no one.</string>
@@ -111,8 +120,17 @@
     <string name="gun3">You should have the ability to protect yourself anywhere you go. \@LurieArtie</string>
     <string name="gun4">Repeal all gun control laws and honor the 2nd amendment, so you can protect your family and keep them safe. \@LurieArtie</string>
 
-    <string name="hashtag">\u0020 #argue4Liberty</string>
-    <string name="coders4liberty">\u0020 \@coders4liberty</string>
+    <!-- police state arguments -->
+    <string name="pol0">The militarization of police was made possible ENTIRELY by Congress. \@haydentiff</string>
+    <string name="pol1">Our neighborhoods are not battlefields and citizens are not the enemy. \@haydentiff</string>
+    <string name="pol2">The Posse Comitatus Act was created to protect citizens from the federal government\'s domestic use of military power. \@haydentiff</string>
+    <string name="pol3">Congress side-stepped the Posse Comitatus Act law with the 1033 program. \@haydentiff</string>
+    <string name="pol4">Military equipment has been flowing from the federal government to local police under the guise of the war on drugs. \@haydentiff</string>
+    <string name="pol5">Military equipment has been flowing from the federal government to local police expanded to include counter-terrorism. \@haydentiff</string>
+    <string name="pol6">Without any oversight, local police departments have become militarized using hyper-aggressive tools and tactics. \@haydentiff</string>
+    <string name="pol7">Local police departments have become militarized using hyper-aggressive tools and tactics that have escalated risk \@haydentiff</string>
+    <string name="pol8">Local police departments have become militarized using hyper-aggressive tools and tactics that have lead to violent outcomes. \@haydentiff</string>
+
 
 
 </resources>

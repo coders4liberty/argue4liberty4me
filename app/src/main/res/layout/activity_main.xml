@@ -2,113 +2,163 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:orientation="vertical"
+    android:orientation="horizontal"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
     tools:context="us.votedifferent.code4liberty.argue4me.MainActivity">
 
-    <RelativeLayout
+    <LinearLayout
+        android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_weight=".02" >
+        android:layout_weight=".05">
 
-        <Button
+        <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="FOREIGN POLICY"
-            android:id="@+id/war"
-            android:textSize="40sp"
-            android:background="#e36464"
-            android:textColor="#000000"
-            android:layout_centerVertical="true"
-            android:layout_alignParentStart="true" />
-    </RelativeLayout>
+            android:layout_weight=".02">
 
-    <RelativeLayout
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/drug_policy"
+                android:id="@+id/drug"
+                android:textSize="30sp"
+                android:background="#b200ff"
+                android:textColor="#000000"
+                android:layout_centerVertical="true"
+                android:layout_alignParentStart="true" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight=".02" >
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="FOREIGN POLICY"
+                android:id="@+id/war"
+                android:textSize="30sp"
+                android:background="#e36464"
+                android:textColor="#000000"
+                android:layout_centerVertical="true"
+                android:layout_alignParentStart="true" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight=".02" >
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/policeButton"
+                android:id="@+id/police"
+                android:textSize="30sp"
+                android:background="#3232ff"
+                android:textColor="#000000"
+                android:layout_centerVertical="true"
+                android:layout_alignParentStart="true" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight=".02" >
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="PRIVACY"
+                android:id="@+id/privacyButton"
+                android:textSize="30sp"
+                android:background="#ffd968"
+                android:textColor="#000000"
+                android:layout_centerVertical="true"
+                android:layout_alignParentStart="true" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_weight=".02" >
+        android:layout_weight=".05">
 
-        <Button
+        <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="PRIVACY"
-            android:id="@+id/privacyButton"
-            android:textSize="40sp"
-            android:background="#ffd968"
-            android:textColor="#000000"
-            android:layout_centerVertical="true"
-            android:layout_alignParentStart="true" />
-    </RelativeLayout>
+            android:layout_weight="0.02" >
 
-    <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_weight=".02">
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/corporations"
+                android:id="@+id/corp"
+                android:textSize="30sp"
+                android:background="#6464ff"
+                android:textColor="#000000"
+                android:layout_centerVertical="true"
+                android:layout_alignParentStart="true" />
+        </RelativeLayout>
 
-        <Button
+        <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="@string/taxation"
-            android:id="@+id/taxation"
-            android:textSize="40sp"
-            android:background="#6ba26b"
-            android:textColor="#000000"
-            android:layout_alignParentTop="true"
-            android:layout_alignParentStart="true" />
+            android:layout_weight=".02">
 
-    </RelativeLayout>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/education"
+                android:id="@+id/education"
+                android:textSize="30sp"
+                android:background="#eeff00"
+                android:textColor="#000000"
+                android:layout_centerVertical="true"
+                android:layout_alignParentStart="true" />
+        </RelativeLayout>
 
-    <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_weight="0.02" >
-
-        <Button
+        <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="@string/corporations"
-            android:id="@+id/corp"
-            android:textSize="40sp"
-            android:background="#6464ff"
-            android:textColor="#000000"
-            android:layout_centerVertical="true"
-            android:layout_alignParentStart="true" />
-    </RelativeLayout>
+            android:layout_weight=".02" >
 
-    <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_weight=".02">
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="FIREARMS"
+                android:id="@+id/guns"
+                android:textSize="30sp"
+                android:background="#b0b0b0"
+                android:textColor="#000000"
+                android:layout_centerVertical="true"
+                android:layout_alignParentStart="true" />
+        </RelativeLayout>
 
-        <Button
+        <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="@string/drug_policy"
-            android:id="@+id/drug"
-            android:textSize="40sp"
-            android:background="#b200ff"
-            android:textColor="#000000"
-            android:layout_centerVertical="true"
-            android:layout_alignParentStart="true" />
-    </RelativeLayout>
+            android:layout_weight=".02">
 
-    <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_weight=".02" >
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/taxation"
+                android:id="@+id/taxation"
+                android:textSize="30sp"
+                android:background="#6ba26b"
+                android:textColor="#000000"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentStart="true" />
 
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:text="FIREARMS"
-            android:id="@+id/guns"
-            android:textSize="40sp"
-            android:background="#b0b0b0"
-            android:textColor="#000000"
-            android:layout_centerVertical="true"
-            android:layout_alignParentStart="true" />
-    </RelativeLayout>
+        </RelativeLayout>
+
+    </LinearLayout>
 
 </LinearLayout>
