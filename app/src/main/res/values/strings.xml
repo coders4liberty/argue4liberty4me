@@ -38,6 +38,13 @@
     <string name="drug18">You had me at "You own your body."</string>
     <string name="drug19">Is it worth asking our LEOs to risk their lives daily to enforce these laws? \@RicMcCluskey</string>
     <string name="drug20">Military equipment has been flowing from the federal government to local police under the guise of the war on drugs. \@haydentiff</string>
+    <string name="drug21">There will always be a black market during a prohibition. \@Werthertweet</string>
+    <string name="drug22">End the War on Drugs! It has failed as all prohibition. \@Werthertweet</string>
+    <string name="drug23">The civil asset forfeiture game is to steal your money. \@Werthertweet</string>
+    <string name="drug24">How many people are really going to buy expensive Nyquil and pull the acetaminophen out of it for meth? \@Werthertweet</string>
+    <string name="drug25">Why do we tell adults what they can put in their bodies? \@GovGaryJohnson \@Werthertweet</string>
+    <string name="drug26">Too many unnecessary laws lead to too many in prison \@GovGaryJohnson \@Werthertweet</string>
+
 
     <!-- Taxation arguments -->
     <string name="tax0">Taxation is theft!</string>
@@ -59,6 +66,10 @@
     <string name="tax16">Private businesses have a vested interest in providing services in the absence of government. \@JimFulner</string>
     <string name="tax17">Services should be paid for by those who directly use them. \@JimFulner</string>
     <string name="tax18">Business owners have a vested interest in subsidizing public services such as roads. \@JimFulner</string>
+    <string name="tax19">The internet has flourished because it has remained relatively free of taxation \@GovGaryJohnson \@Werthertweet</string>
+
+<string name="taxation20">Libertarians are probably more fiscally conservative than Republicans are used to. \@Werthertweet</string>
+
     <!-- Economic arguments -->
     <string name="econ0">End all corporate welfare.</string>
     <string name="econ1">Corporations control the government. Therefore, we need more government.</string>
@@ -72,6 +83,7 @@
     <string name="econ9">Libertarians envision a society where people may choose to share freely with one another. \@JimFulner</string>
     <string name="econ10">Free Software grants users access to the source code, and allows  them to freely change, improve, and re-distribute the code. \@JimFulner</string>
     <string name="econ11">Officials would benefit the lives of their constituents by encouraging the ethos and practices of the free software movement. \@JimFulner</string>
+    <string name="econ12">Governments don’t create jobs, businesses do. \@GovGaryJohnson \@Werthertweet</string>
 
     <!--education arguments -->
     <string name="edu1">Use of "Free" operating systems and software in schools would reduce costs. \@JimFulner</string>
@@ -112,6 +124,12 @@
     <string name="privacy15">If personal liberty is debated, expect an argument. \@timothyfrazier</string>
     <string name="privacy16">If an existing law or policy decreases personal liberty, expect  a fight to repeal or abolish it. \@timothyfrazier</string>
     <string name="privacy17">Make the future one of liberty and freedom for all. \@timothyfrazier</string>
+    <string name="privacy18">Government exists to protect constitutional rights - not to pick and choose who should have those rights \@GovGaryJohnson \@Werthertweet</string>
+    <string name="privacy19">There will always be anti-gov memes as long as the gov is used as a tool more and more against the liberty of the people. \@Werthertweet</string>
+    <string name="privacy20">Is our state is going along with Federal ID to scan our drivers licenses? \@Werthertweet</string>
+    <string name="privacy21">Now that I\'ve had the new driver’s license, I\'ve had more scans.  \@Werthertweet</string>
+    <string name="privacy22">A lady was scanned for alcohol at about 50 years old and I was scanned for Nyquil right behind her at \@WinnDixie. \@Werthertweet</string>
+    <string name="privacy23">Government exists to protect civil liberties - not to pick and choose who should have those rights \@GovGaryJohnson \@Werthertweet</string>
 
     <!-- gun arguments -->
     <string name="gun0">Gun control laws do the exact opposite of the very thing it is trying to accomplish, to keep people safe! \@LurieArtie</string>
