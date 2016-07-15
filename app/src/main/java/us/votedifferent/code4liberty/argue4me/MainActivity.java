@@ -46,7 +46,13 @@ public class MainActivity extends AppCompatActivity {
                 getString(R.string.drug8), getString(R.string.drug9), getString(R.string.drug10),
                 getString(R.string.drug11), getString(R.string.drug12), getString(R.string.drug13),
                 getString(R.string.drug14), getString(R.string.drug15), getString(R.string.drug16),
-                getString(R.string.drug17), getString(R.string.drug18), getString(R.string.drug19)};
+                getString(R.string.drug17), getString(R.string.drug18), getString(R.string.drug19),
+                getString(R.string.drug20), getString(R.string.drug21), getString(R.string.drug22),
+                getString(R.string.drug23), getString(R.string.drug24), getString(R.string.drug25),
+                getString(R.string.drug26), getString(R.string.drug27), getString(R.string.drug28),
+                getString(R.string.drug29), getString(R.string.drug30), getString(R.string.drug31),
+                getString(R.string.drug32), getString(R.string.drug33), getString(R.string.drug34),
+                getString(R.string.drug35)};
         final int drugSize = drugList.length;
 
         final String[] warList = {getString(R.string.war0), getString(R.string.war1),
@@ -70,7 +76,8 @@ public class MainActivity extends AppCompatActivity {
                 getString(R.string.tax8),  getString(R.string.tax9), getString(R.string.tax10),
                 getString(R.string.tax11),  getString(R.string.tax12), getString(R.string.tax12),
                 getString(R.string.tax13),  getString(R.string.tax14), getString(R.string.tax15),
-                getString(R.string.tax16),  getString(R.string.tax17), getString(R.string.tax18)};
+                getString(R.string.tax16),  getString(R.string.tax17), getString(R.string.tax18),
+                getString(R.string.tax19),  getString(R.string.tax20)};
         final int taxSize = taxList.length;
 
         final String[] privList = {getString(R.string.privacy1), getString(R.string.privacy2),

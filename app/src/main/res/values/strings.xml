@@ -51,9 +51,7 @@
     <string name="drug31"> All this hostility comes from the war on drugs. \@GovJVentura</string>
     <string name="drug32"> The war on drugs has caused the militarization of our police forces. \@GovJVentura</string>
     <string name="drug33">Because they were black, they thought, Oh there\'s gotta be some drug involved here. \@GovJVentura</string>
-
     <string name="drug34">We need to end the war on drugs. That would put the cartels in Mexico out of business. \@GovJVentura</string>
-
     <string name="drug35">If they want to look at a problem, how about looking at what killed Prince, opiates. \@GovJVentura</string>
 
 
@@ -79,8 +77,7 @@
     <string name="tax17">Services should be paid for by those who directly use them. \@JimFulner</string>
     <string name="tax18">Business owners have a vested interest in subsidizing public services such as roads. \@JimFulner</string>
     <string name="tax19">The internet has flourished because it has remained relatively free of taxation \@GovGaryJohnson \@Werthertweet</string>
-
-<string name="taxation20">Libertarians are probably more fiscally conservative than Republicans are used to. \@Werthertweet</string>
+    <string name="tax20">Libertarians are probably more fiscally conservative than Republicans are used to. \@Werthertweet</string>
 
     <!-- Economic arguments -->
     <string name="econ0">End all corporate welfare.</string>

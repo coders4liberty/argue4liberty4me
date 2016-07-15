@@ -6,7 +6,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context="us.votedifferent.code4liberty.argue4me.MainActivity">
+    tools:context="us.votedifferent.code4liberty.argue4me.MainActivity"
+    android:baselineAligned="false">
 
     <LinearLayout
         android:orientation="vertical"
