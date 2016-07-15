@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
                 getString(R.string.econ2), getString(R.string.econ3), getString(R.string.econ4),
                 getString(R.string.econ5), getString(R.string.econ6), getString(R.string.econ7),
                 getString(R.string.econ8), getString(R.string.econ9), getString(R.string.econ10),
-                getString(R.string.econ11)};
+                getString(R.string.econ11), getString(R.string.econ12)};
         final int econSize = econList.length;
 
         final String[] taxList = {getString(R.string.tax0), getString(R.string.tax1),
@@ -85,17 +85,21 @@ public class MainActivity extends AppCompatActivity {
                 getString(R.string.privacy6), getString(R.string.privacy7), getString(R.string.privacy8),
                 getString(R.string.privacy9), getString(R.string.privacy10), getString(R.string.privacy11),
                 getString(R.string.privacy12), getString(R.string.privacy13), getString(R.string.privacy14),
-                getString(R.string.privacy15), getString(R.string.privacy16), getString(R.string.privacy17)};
+                getString(R.string.privacy15), getString(R.string.privacy16), getString(R.string.privacy17),
+                getString(R.string.privacy18), getString(R.string.privacy19), getString(R.string.privacy20),
+                getString(R.string.privacy21), getString(R.string.privacy22), getString(R.string.privacy23)};
         final int privSize = privList.length;
 
         final String[] gunList = {getString(R.string.gun0), getString(R.string.gun1),
-                getString(R.string.gun2), getString(R.string.gun3), getString(R.string.gun4)};
+                getString(R.string.gun2), getString(R.string.gun3), getString(R.string.gun4),
+                getString(R.string.gun5)};
         final int gunSize = gunList.length;
 
         final String[] polList = {getString(R.string.pol0), getString(R.string.pol1),
                 getString(R.string.pol2), getString(R.string.pol3), getString(R.string.pol4),
                 getString(R.string.pol5), getString(R.string.pol6), getString(R.string.pol7),
-                getString(R.string.pol8)};
+                getString(R.string.pol8), getString(R.string.pol9), getString(R.string.pol10),
+                getString(R.string.pol11)};
         final int polSize = polList.length;
 
         final String[] eduList = {getString(R.string.edu1), getString(R.string.edu2)};
