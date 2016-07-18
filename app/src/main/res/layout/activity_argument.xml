@@ -16,7 +16,7 @@
             android:layout_height="match_parent"
             android:text="Argument"
             android:id="@+id/Argument"
-            android:textSize="40sp"
+            android:textSize="30sp"
             android:padding="30dp"
             android:paddingLeft="30dp"
             android:paddingTop="30dp"
@@ -38,6 +38,6 @@
             android:paddingBottom="10dp"
             android:textColor="#ffffff"
             android:background="#606060"
-            android:textSize="30sp" />
+            android:textSize="20sp" />
     </RelativeLayout>
 </LinearLayout>
