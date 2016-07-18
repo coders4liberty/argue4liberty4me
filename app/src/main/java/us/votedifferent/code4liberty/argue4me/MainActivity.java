@@ -52,7 +52,10 @@ public class MainActivity extends AppCompatActivity {
                 getString(R.string.drug26), getString(R.string.drug27), getString(R.string.drug28),
                 getString(R.string.drug29), getString(R.string.drug30), getString(R.string.drug31),
                 getString(R.string.drug32), getString(R.string.drug33), getString(R.string.drug34),
-                getString(R.string.drug35)};
+                getString(R.string.drug35), getString(R.string.drug36), getString(R.string.drug37),
+                getString(R.string.drug38), getString(R.string.drug39), getString(R.string.drug40),
+                getString(R.string.drug41), getString(R.string.drug42), getString(R.string.drug43),
+                getString(R.string.drug44), getString(R.string.drug45)};
         final int drugSize = drugList.length;
 
         final String[] warList = {getString(R.string.war0), getString(R.string.war1),
@@ -60,14 +63,26 @@ public class MainActivity extends AppCompatActivity {
                 getString(R.string.war5), getString(R.string.war6), getString(R.string.war6),
                 getString(R.string.war7), getString(R.string.war8), getString(R.string.war9),
                 getString(R.string.war10), getString(R.string.war11), getString(R.string.war12),
-                getString(R.string.war13), getString(R.string.war14)};
+                getString(R.string.war13), getString(R.string.war14), getString(R.string.war15),
+                getString(R.string.war16), getString(R.string.war17), getString(R.string.war18),
+                getString(R.string.war19), getString(R.string.war20), getString(R.string.war21),
+                getString(R.string.war22), getString(R.string.war23), getString(R.string.war24),
+                getString(R.string.war25), getString(R.string.war26), getString(R.string.war27),
+                getString(R.string.war28), getString(R.string.war29), getString(R.string.war30),
+                getString(R.string.war31), getString(R.string.war32), getString(R.string.war33),
+                getString(R.string.war34), getString(R.string.war35), getString(R.string.war36),
+                getString(R.string.war37), getString(R.string.war38)};
         final int warSize = warList.length;
 
         final String[] econList = {getString(R.string.econ0), getString(R.string.econ1),
                 getString(R.string.econ2), getString(R.string.econ3), getString(R.string.econ4),
                 getString(R.string.econ5), getString(R.string.econ6), getString(R.string.econ7),
                 getString(R.string.econ8), getString(R.string.econ9), getString(R.string.econ10),
-                getString(R.string.econ11), getString(R.string.econ12)};
+                getString(R.string.econ11), getString(R.string.econ12), getString(R.string.econ13),
+                getString(R.string.econ14), getString(R.string.econ15), getString(R.string.econ16),
+                getString(R.string.econ17), getString(R.string.econ18), getString(R.string.econ19),
+                getString(R.string.econ20), getString(R.string.econ21), getString(R.string.econ22),
+                getString(R.string.econ23), getString(R.string.econ24)};
         final int econSize = econList.length;
 
         final String[] taxList = {getString(R.string.tax0), getString(R.string.tax1),
@@ -87,7 +102,8 @@ public class MainActivity extends AppCompatActivity {
                 getString(R.string.privacy12), getString(R.string.privacy13), getString(R.string.privacy14),
                 getString(R.string.privacy15), getString(R.string.privacy16), getString(R.string.privacy17),
                 getString(R.string.privacy18), getString(R.string.privacy19), getString(R.string.privacy20),
-                getString(R.string.privacy21), getString(R.string.privacy22), getString(R.string.privacy23)};
+                getString(R.string.privacy21), getString(R.string.privacy22), getString(R.string.privacy23),
+                getString(R.string.privacy24)};
         final int privSize = privList.length;
 
         final String[] gunList = {getString(R.string.gun0), getString(R.string.gun1),

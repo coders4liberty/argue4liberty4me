@@ -50,10 +50,19 @@
     <string name="drug30"> They dont raid affluent neighborhoods. It\'s always in the lower income areas \@GovJVentura</string>
     <string name="drug31"> All this hostility comes from the war on drugs. \@GovJVentura</string>
     <string name="drug32"> The war on drugs has caused the militarization of our police forces. \@GovJVentura</string>
-    <string name="drug33">Because they were black, they thought, Oh there\'s gotta be some drug involved here. \@GovJVentura</string>
+    <string name="drug33">Because they were black, police thought, Oh there\'s gotta be some drug involved here. \@GovJVentura</string>
     <string name="drug34">We need to end the war on drugs. That would put the cartels in Mexico out of business. \@GovJVentura</string>
     <string name="drug35">If they want to look at a problem, how about looking at what killed Prince, opiates. \@GovJVentura</string>
-
+    <string name="drug36">The War On Drugs is a device used by those in power to take our liberties and provides only fear and oppression in return \@Stanton4Liberty</string>
+    <string name="drug37">Ending the drug war will remove roadblocks that prevent addicts from getting help \@Stanton4Liberty</string>
+    <string name="drug38">Ending the drug war will end the pattern of selectively-enforced felony convictions that oppress minorities and the poor \@Stanton4Liberty</string>
+    <string name="drug39">Ending the drug war will end the patterns that encourage drug users to retreat in fear from their families and aspirations \@Stanton4Liberty</string>
+    <string name="drug40">Immediate decriminalization of all drugs. \@Stanton4Liberty</string>
+    <string name="drug41">End mandatory-minimum sentencing for drug-related offenses. \@Stanton4Liberty</string>
+    <string name="drug42">End costly and ineffective drug testing for recipients of welfare. \@Stanton4Liberty</string>
+    <string name="drug43">Reduce tax burdens for private rehabilitation programs in order to make them affordable and protect the privacy of those suffering from drug addiction \@Stanton4Liberty</string>
+    <string name="drug44">Reduce tax burdens for private rehabilitation programs in order to protect the privacy of those suffering from drug addiction \@Stanton4Liberty</string>
+    <string name="drug45">Return the right to vote to those convicted of nonviolent drug-related offenses nation-wide. \@Stanton4Liberty</string>
 
 
     <!-- Taxation arguments -->
@@ -93,6 +102,22 @@
     <string name="econ10">Free Software grants users access to the source code, and allows  them to freely change, improve, and re-distribute the code. \@JimFulner</string>
     <string name="econ11">Officials would benefit the lives of their constituents by encouraging the ethos and practices of the free software movement. \@JimFulner</string>
     <string name="econ12">Governments don’t create jobs, businesses do. \@GovGaryJohnson \@Werthertweet</string>
+    <string name="econ13">The market is not what is wrong with the United States economy. \@Stanton4Liberty</string>
+    <string name="econ14">What is wrong with the economy is the perversion of the market in favor of a government owned by big business. \@Stanton4Liberty</string>
+    <string name="econ15">A government owned by big business is a perverse symbiotic relationship between the two. \@Stanton4Liberty</string>
+    <string name="econ16">Large corporations lobby government in order to have their bills passed through congress. \@Stanton4Liberty</string>
+    <string name="econ17">Large corporations contribute large sums of money to campaigns in order to have their bills passed through congress. \@Stanton4Liberty</string>
+    <string name="econ18">Many regulations are made not to protect the consumer, but to protect big business from competition. \@Stanton4Liberty</string>
+    <string name="econ19">Competition is what makes the market work. \@Stanton4Liberty</string>
+    <string name="econ20">Without competition monopolistic conditions rise that distort the market and further inequality. \@Stanton4Liberty</string>
+    <string name="econ21">We should not fight against calls for equality. \@Stanton4Liberty</string>
+    <string name="econ22">Many of the solutions presented by the current duopoly involve the state. \@Stanton4Liberty</string>
+    <string name="econ23">We should recognize that inequality is caused by crony policies that seek to give an advantage to one business over another. \@Stanton4Liberty</string>
+    <string name="econ24">One large aspect of cronyism was on full display for the economic crash in 2008. \@Stanton4Liberty</string>
+
+
+
+
 
     <!--education arguments -->
     <string name="edu1">Use of "Free" operating systems and software in schools would reduce costs. \@JimFulner</string>
@@ -114,6 +139,30 @@
     <string name="war12">Limit the drone program usage overseas. \@CraigBowden2020</string>
     <string name="war13">I cannot condone the collateral damage drones have caused many people across several nations. \@CraigBowden2020</string>
     <string name="war14">If we have not declared war on a nation, we should not use drones in that nation. \@CraigBowden2020</string>
+    <string name="war15">Our military ventures overseas have not brought us greater liberty or safety. \@Stanton4Liberty</string>
+    <string name="war16">Our military ventures overseas have bred resentment and hatred of our policy overseas. \@Stanton4Liberty</string>
+    <string name="war17">Our military ventures overseas have provided a pretext for those in power to chip away at our civil liberties. \@Stanton4Liberty</string>
+    <string name="war18">Military interventionism is a costly and dangerous heavy hand to use to confront threats to American safety. \@Stanton4Liberty</string>
+    <string name="war19">Not only is it costly in dollar value, but it is also costly in political capital. \@Stanton4Liberty</string>
+    <string name="war20">Military spending comprises over half of the federal discretionary spending budget. \@Stanton4Liberty</string>
+    <string name="war21">Frequently our nation has been criticized for imperialism at home and abroad. \@Stanton4Liberty</string>
+    <string name="war22">Congress has used the threat of terrorism as an excuse to erode liberty by suspending constitutional rights. \@Stanton4Liberty</string>
+    <string name="war23">We, as a nation, are weary of costly, prolonged, and fruitless military campaigns overseas. \@Stanton4Liberty</string>
+    <string name="war24">Our foreign policy is also costly in human lives, and the goodwill of those we claim to be trying to help. \@Stanton4Liberty</string>
+    <string name="war25">One cannot win the hearts and minds of anyone, friends or foes, while pointing a gun at them. \@Stanton4Liberty</string>
+    <string name="war26">Military intervention closes the minds of those who may have once welcomed the idea of American aid. \@Stanton4Liberty</string>
+    <string name="war27">Military intervention fosters the distrust, fear, and anger that terrorism and other violent ideologies thrive on. \@Stanton4Liberty</string>
+    <string name="war28">The negative sentiment abroad is pushed further with our growing policy of using drones to “selectively target” suspected enemies. \@Stanton4Liberty</string>
+    <string name="war29">News and social media has been flooded with reports of military drones killing and maiming thousands of civilians \@Stanton4Liberty</string>
+    <string name="war30">Civilians killed by drones often had no connection to terrorism. \@Stanton4Liberty</string>
+    <string name="war31">Violence begets violence. \@Stanton4Liberty</string>
+    <string name="war32">War is not conducive to creating a more stable, peaceful world wherein everyone can have a greater opportunity to prosper. \@Stanton4Liberty</string>
+    <string name="war33">I stand behind promoting foreign policy that focuses on compassion and understanding. \@Stanton4Liberty</string>
+    <string name="war34">Threats to the security of American citizens should not be justification for the wanton use of military intervention. \@Stanton4Liberty</string>
+    <string name="war35">Reduce our military presence overseas to promote diplomatic solutions. \@Stanton4Liberty</string>
+    <string name="war36">Reduce our military presence overseas to encourage a positive view of America, globally and domestically. \@Stanton4Liberty</string>
+    <string name="war37">End reckless drone strikes that have killed many innocent people (i.e. Denver-born child Abdulrahman Anwar al-Awlaki). \@Stanton4Liberty</string>
+    <string name="war38">Rebuild the bulwark protecting our freedom that has been torn down by claims of national security. \@Stanton4Liberty</string>
 
     <!-- privacy arguments -->
     <string name="privacy1">Repeal the USA Patriot Act in order to preserve our civil liberties and protect our privacy. \@CraigBowden2020</string>
@@ -139,6 +188,7 @@
     <string name="privacy21">Now that I\'ve had the new driver’s license, I\'ve had more scans.  \@Werthertweet</string>
     <string name="privacy22">A lady was scanned for alcohol at about 50 years old and I was scanned for Nyquil right behind her at \@WinnDixie. \@Werthertweet</string>
     <string name="privacy23">Government exists to protect civil liberties - not to pick and choose who should have those rights \@GovGaryJohnson \@Werthertweet</string>
+    <string name="privacy24">Threats to the security of American citizens should not be justification for the erosion of our civil liberty. \@Stanton4Liberty</string>
 
     <!-- gun arguments -->
     <string name="gun0">Gun control laws do the exact opposite of the very thing it is trying to accomplish, to keep people safe! \@LurieArtie</string>
