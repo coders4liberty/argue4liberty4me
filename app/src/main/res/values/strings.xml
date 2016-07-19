@@ -87,6 +87,15 @@
     <string name="tax18">Business owners have a vested interest in subsidizing public services such as roads. \@JimFulner</string>
     <string name="tax19">The internet has flourished because it has remained relatively free of taxation \@GovGaryJohnson \@Werthertweet</string>
     <string name="tax20">Libertarians are probably more fiscally conservative than Republicans are used to. \@Werthertweet</string>
+    <string name="tax21">Eliminate FICA taxes for all workers under the poverty line. \@Stanton4Liberty</string>
+    <string name="tax22">Eliminating FICA taxes will certainly help individual workers, employers, and encourage job growth. \@Stanton4Liberty</string>
+    <string name="tax23">Institute a dollar for dollar tax rebate for charitable donations. \@Stanton4Liberty</string>
+    <string name="tax24">Liberty is not extortion of one's income under the false pretense that the thief knows better how to spend it. \@Stanton4Liberty</string>
+    <string name="tax25">A tax rebate for charitable donations will encourage individuals to be more charitable. \@Stanton4Liberty</string>
+    <string name="tax26">A tax rebate for charitable donations will help eliminate waste incurred by federal programs. \@Stanton4Liberty</string>
+    <string name="tax27">We demand a national policy that is not based on coercion and brutality. \@Stanton4Liberty</string>
+
+
 
     <!-- Economic arguments -->
     <string name="econ0">End all corporate welfare.</string>
@@ -114,9 +123,19 @@
     <string name="econ22">Many of the solutions presented by the current duopoly involve the state. \@Stanton4Liberty</string>
     <string name="econ23">We should recognize that inequality is caused by crony policies that seek to give an advantage to one business over another. \@Stanton4Liberty</string>
     <string name="econ24">One large aspect of cronyism was on full display for the economic crash in 2008. \@Stanton4Liberty</string>
-
-
-
+    <string name="econ25">The result of TARP was years of mal-investment was not allowed to be properly liquidated in the marketplace. \@Stanton4Liberty</string>
+    <string name="econ26">The result of TARP was the risk taken on by these firms that caused the crisis was rewarded. \@Stanton4Liberty</string>
+    <string name="econ27">TARP is a major diversion from the free market. \@Stanton4Liberty</string>
+    <string name="econ28">I am in favor of free market policies that allow businesses to fail when they take on too much risk. \@Stanton4Liberty</string>
+    <string name="econ29">I am in favor of free market policies that allow businesses to fail when they function ineffectively. \@Stanton4Liberty</string>
+    <string name="econ30">The federal government should not be in the business of propping up failed firms in the economy. \@Stanton4Liberty</string>
+    <string name="econ31">Policies actually look more like a war on the poor than a war on poverty. \@Stanton4Liberty</string>
+    <string name="econ32">Creating opportunities for all Americans, especially the most marginalized in society, must be a priority. \@Stanton4Liberty</string>
+    <string name="econ33">The focus of policymakers has been on creating a system by which the rich are able to socialize their losses across society. \@Stanton4Liberty</string>
+    <string name="econ34">We must have a strong economy that provides opportunities for Americans from every walk of life, not just the corporate elite. \@Stanton4Liberty</string>
+    <string name="econ35">The disenfranchised in society also rely heavily on government services that often produce more waste than results. \@Stanton4Liberty</string>
+    <string name="econ36">Direct charitable help to the poor should be encouraged. \@Stanton4Liberty</string>
+    <string name="econ37">Liberty is the freedom to work for the life one wants. \@Stanton4Liberty</string>
 
 
     <!--education arguments -->
