@@ -94,6 +94,9 @@
     <string name="tax25">A tax rebate for charitable donations will encourage individuals to be more charitable. \@Stanton4Liberty</string>
     <string name="tax26">A tax rebate for charitable donations will help eliminate waste incurred by federal programs. \@Stanton4Liberty</string>
     <string name="tax27">We demand a national policy that is not based on coercion and brutality. \@Stanton4Liberty</string>
+    <string name="tax28">Lowering taxes for all businesses should also be a priority. \@Stanton4Liberty</string>
+    <string name="tax29">Start with eliminating the corporate tax for small businesses so they can invest in their businesses and their communities. \@Stanton4Liberty</string>
+    <string name="tax30">Eliminating taxation on repatriated profits could bring over $2.1 trillion sitting overseas back to the US. \@Stanton4Liberty</string>
 
 
 
@@ -113,7 +116,7 @@
     <string name="econ12">Governments don’t create jobs, businesses do. \@GovGaryJohnson \@Werthertweet</string>
     <string name="econ13">The market is not what is wrong with the United States economy. \@Stanton4Liberty</string>
     <string name="econ14">What is wrong with the economy is the perversion of the market in favor of a government owned by big business. \@Stanton4Liberty</string>
-    <string name="econ15">A government owned by big business is a perverse symbiotic relationship between the two. \@Stanton4Liberty</string>
+    <string name="econ15">1 of the largest problems facing America is the symbiotic relationship between the federal government and big business. \@Stanton4Liberty</string>
     <string name="econ16">Large corporations lobby government in order to have their bills passed through congress. \@Stanton4Liberty</string>
     <string name="econ17">Large corporations contribute large sums of money to campaigns in order to have their bills passed through congress. \@Stanton4Liberty</string>
     <string name="econ18">Many regulations are made not to protect the consumer, but to protect big business from competition. \@Stanton4Liberty</string>
@@ -136,7 +139,24 @@
     <string name="econ35">The disenfranchised in society also rely heavily on government services that often produce more waste than results. \@Stanton4Liberty</string>
     <string name="econ36">Direct charitable help to the poor should be encouraged. \@Stanton4Liberty</string>
     <string name="econ37">Liberty is the freedom to work for the life one wants. \@Stanton4Liberty</string>
-
+    <string name="econ38">In order to create opportunities to tackle poverty, we must foster the environment that allows small businesses to thrive. \@Stanton4Liberty</string>
+    <string name="econ39">Cut down the bureaucracy instituted by many federal agencies that price small businesses out of the market. \@Stanton4Liberty</string>
+    <string name="econ40">The federal government stifles jobs by forcing regulations crafted by the corporate elite. \@Stanton4Liberty</string>
+    <string name="econ41">Regulations crafted by the corporate help large corporations push small businesses out of competition. \@Stanton4Liberty</string>
+    <string name="econ42">Politicians will sell every regulation as protection of the individual, but they protect big corporations. \@Stanton4Liberty</string>
+    <string name="econ43">Regulations protect monopoly like conditions for big corporations. \@Stanton4Liberty</string>
+    <string name="econ44">Crony policies, such as corporate bailouts, contribute to massive inequality within our country. \@Stanton4Liberty</string>
+    <string name="econ45">In addition to bailouts, subsidies pick winners and losers in the economy, distorting the market. \@Stanton4Liberty</string>
+    <string name="econ46">Energy subsidies have an effect on the environment. \@Stanton4Liberty</string>
+    <string name="econ47">Reform crony policies that only serve the small minority of corporate elite at the cost of the working class. \@Stanton4Liberty</string>
+    <string name="econ48">Build a truly free market system in which businesses succeed and fail on their own accord, not by government favors. \@Stanton4Liberty</string>
+    <string name="econ49">Current economic policies do more harm than good exacerbating inequality and choking off innovation and growth. \@Stanton4Liberty</string>
+    <string name="econ50">Truly lift people out of poverty by providing the conditions necessary for a successful economy to thrive. \@Stanton4Liberty</string>
+    <string name="econ51">A truly free market with less government intervention in the marketplace can produce a stronger economy. \@Stanton4Liberty</string>
+    <string name="econ52">A truly free market with less government intervention in the marketplace can produce a more equitable society. \@Stanton4Liberty</string>
+    <string name="econ53">We cannot guarantee equality of result through government intervention. \@Stanton4Liberty</string>
+    <string name="econ54">Provide equality of power to all individuals. \@Stanton4Liberty</string>
+    <string name="econ55">Empower those currently marginalized to produce a better life for themselves and their families. \@Stanton4Liberty</string>
 
     <!--education arguments -->
     <string name="edu1">Use of "Free" operating systems and software in schools would reduce costs. \@JimFulner</string>
@@ -182,6 +202,8 @@
     <string name="war36">Reduce our military presence overseas to encourage a positive view of America, globally and domestically. \@Stanton4Liberty</string>
     <string name="war37">End reckless drone strikes that have killed many innocent people (i.e. Denver-born child Abdulrahman Anwar al-Awlaki). \@Stanton4Liberty</string>
     <string name="war38">Rebuild the bulwark protecting our freedom that has been torn down by claims of national security. \@Stanton4Liberty</string>
+    <string name="war39">I'm more upset that President Obama plagiarized GWB's foreign policy. \@X_Treat</string>
+
 
     <!-- privacy arguments -->
     <string name="privacy1">Repeal the USA Patriot Act in order to preserve our civil liberties and protect our privacy. \@CraigBowden2020</string>

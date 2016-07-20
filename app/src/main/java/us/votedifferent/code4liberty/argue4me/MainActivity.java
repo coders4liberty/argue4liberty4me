@@ -58,6 +58,39 @@ public class MainActivity extends AppCompatActivity {
                 getString(R.string.drug44), getString(R.string.drug45)};
         final int drugSize = drugList.length;
 
+        final String[] taxList = {getString(R.string.tax0), getString(R.string.tax1),
+                getString(R.string.tax2), getString(R.string.tax3), getString(R.string.tax4),
+                getString(R.string.tax5),  getString(R.string.tax6), getString(R.string.tax7),
+                getString(R.string.tax8),  getString(R.string.tax9), getString(R.string.tax10),
+                getString(R.string.tax11),  getString(R.string.tax12), getString(R.string.tax12),
+                getString(R.string.tax13),  getString(R.string.tax14), getString(R.string.tax15),
+                getString(R.string.tax16),  getString(R.string.tax17), getString(R.string.tax18),
+                getString(R.string.tax19),  getString(R.string.tax20),  getString(R.string.tax21),
+                getString(R.string.tax22),  getString(R.string.tax23), getString(R.string.tax24),
+                getString(R.string.tax25),  getString(R.string.tax26), getString(R.string.tax27),
+                getString(R.string.tax28),  getString(R.string.tax29),  getString(R.string.tax30)};
+        final int taxSize = taxList.length;
+
+        final String[] econList = {getString(R.string.econ0), getString(R.string.econ1),
+                getString(R.string.econ2), getString(R.string.econ3), getString(R.string.econ4),
+                getString(R.string.econ5), getString(R.string.econ6), getString(R.string.econ7),
+                getString(R.string.econ8), getString(R.string.econ9), getString(R.string.econ10),
+                getString(R.string.econ11), getString(R.string.econ12), getString(R.string.econ13),
+                getString(R.string.econ14), getString(R.string.econ15), getString(R.string.econ16),
+                getString(R.string.econ17), getString(R.string.econ18), getString(R.string.econ19),
+                getString(R.string.econ20), getString(R.string.econ21), getString(R.string.econ22),
+                getString(R.string.econ23), getString(R.string.econ24), getString(R.string.econ24),
+                getString(R.string.econ25), getString(R.string.econ26), getString(R.string.econ27),
+                getString(R.string.econ28), getString(R.string.econ29), getString(R.string.econ30),
+                getString(R.string.econ31), getString(R.string.econ32), getString(R.string.econ33),
+                getString(R.string.econ34), getString(R.string.econ35), getString(R.string.econ36),
+                getString(R.string.econ37), getString(R.string.econ38), getString(R.string.econ39),
+                getString(R.string.econ40), getString(R.string.econ41), getString(R.string.econ42),
+                getString(R.string.econ43), getString(R.string.econ44), getString(R.string.econ45),
+                getString(R.string.econ46), getString(R.string.econ47), getString(R.string.econ48)};
+        final int econSize = econList.length;
+
+
         final String[] warList = {getString(R.string.war0), getString(R.string.war1),
                 getString(R.string.war2), getString(R.string.war3), getString(R.string.war4),
                 getString(R.string.war5), getString(R.string.war6), getString(R.string.war6),
@@ -74,26 +107,8 @@ public class MainActivity extends AppCompatActivity {
                 getString(R.string.war37), getString(R.string.war38)};
         final int warSize = warList.length;
 
-        final String[] econList = {getString(R.string.econ0), getString(R.string.econ1),
-                getString(R.string.econ2), getString(R.string.econ3), getString(R.string.econ4),
-                getString(R.string.econ5), getString(R.string.econ6), getString(R.string.econ7),
-                getString(R.string.econ8), getString(R.string.econ9), getString(R.string.econ10),
-                getString(R.string.econ11), getString(R.string.econ12), getString(R.string.econ13),
-                getString(R.string.econ14), getString(R.string.econ15), getString(R.string.econ16),
-                getString(R.string.econ17), getString(R.string.econ18), getString(R.string.econ19),
-                getString(R.string.econ20), getString(R.string.econ21), getString(R.string.econ22),
-                getString(R.string.econ23), getString(R.string.econ24)};
-        final int econSize = econList.length;
 
-        final String[] taxList = {getString(R.string.tax0), getString(R.string.tax1),
-                getString(R.string.tax2), getString(R.string.tax3), getString(R.string.tax4),
-                getString(R.string.tax5),  getString(R.string.tax6), getString(R.string.tax7),
-                getString(R.string.tax8),  getString(R.string.tax9), getString(R.string.tax10),
-                getString(R.string.tax11),  getString(R.string.tax12), getString(R.string.tax12),
-                getString(R.string.tax13),  getString(R.string.tax14), getString(R.string.tax15),
-                getString(R.string.tax16),  getString(R.string.tax17), getString(R.string.tax18),
-                getString(R.string.tax19),  getString(R.string.tax20)};
-        final int taxSize = taxList.length;
+
 
         final String[] privList = {getString(R.string.privacy1), getString(R.string.privacy2),
                 getString(R.string.privacy3), getString(R.string.privacy4), getString(R.string.privacy5),
