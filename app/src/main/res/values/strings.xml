@@ -65,6 +65,7 @@
     <string name="drug45">Return the right to vote to those convicted of nonviolent drug-related offenses nation-wide. \@Stanton4Liberty</string>
 
 
+
     <!-- Taxation arguments -->
     <string name="tax0">Taxation is theft!</string>
     <string name="tax1">Good ideas do not require force.</string>
@@ -97,6 +98,9 @@
     <string name="tax28">Lowering taxes for all businesses should also be a priority. \@Stanton4Liberty</string>
     <string name="tax29">Start with eliminating the corporate tax for small businesses so they can invest in their businesses and their communities. \@Stanton4Liberty</string>
     <string name="tax30">Eliminating taxation on repatriated profits could bring over $2.1 trillion sitting overseas back to the US. \@Stanton4Liberty</string>
+    <string name="tax31">Eliminate the grocery tax. \@ErinAdams4OK</string>
+    <string name="tax32">A tax on groceries hits our low income residents the hardest. \@ErinAdams4OK</string>
+
 
 
 
@@ -157,10 +161,16 @@
     <string name="econ53">We cannot guarantee equality of result through government intervention. \@Stanton4Liberty</string>
     <string name="econ54">Provide equality of power to all individuals. \@Stanton4Liberty</string>
     <string name="econ55">Empower those currently marginalized to produce a better life for themselves and their families. \@Stanton4Liberty</string>
+    <string name="econ56">There is a long history within the US of strong opposition to the establishment of a national bank, and that battle lives on today. \@Stanton4Liberty</string>
+
 
     <!--education arguments -->
     <string name="edu1">Use of "Free" operating systems and software in schools would reduce costs. \@JimFulner</string>
     <string name="edu2">Use of "Free" software in schools  provide students with the opportunity to participate in the software community. \@JimFulner</string>
+    <string name="edu3">Instead of putting funds toward classroom expenditures, money has been spent to raise the salaries of administrators. \@ErinAdams4OK</string>
+    <string name="edu4">For a proper functioning government, education must be a top priority. \@ErinAdams4OK</string>
+    <string name="edu5">Ensure taxpayer dollars are being spent on the students. \@ErinAdams4OK</string>
+
 
     <!-- War arguments -->
     <string name="war0">Free trade with all. Entangling alliances with no one.</string>
