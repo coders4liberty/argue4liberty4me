@@ -74,6 +74,23 @@
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:text="FREE SPEECH"
+                android:id="@+id/speech"
+                android:textSize="30sp"
+                android:background="#f200ff"
+                android:textColor="#000000"
+                android:layout_centerVertical="true"
+                android:layout_alignParentStart="true" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight=".02" >
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
                 android:text="PRIVACY"
                 android:id="@+id/privacyButton"
                 android:textSize="30sp"

@@ -63,6 +63,18 @@
     <string name="drug43">Reduce tax burdens for private rehabilitation programs in order to make them affordable and protect the privacy of those suffering from drug addiction \@Stanton4Liberty</string>
     <string name="drug44">Reduce tax burdens for private rehabilitation programs in order to protect the privacy of those suffering from drug addiction \@Stanton4Liberty</string>
     <string name="drug45">Return the right to vote to those convicted of nonviolent drug-related offenses nation-wide. \@Stanton4Liberty</string>
+    <string name="drug46">The war on drugs has brought many unforeseen consequences. \@ErinAdams4OK</string>
+    <string name="drug47">We incarcerate nonviolent drug offenders up to 20 years; only to the release them with restricted job access and mobility. \@ErinAdams4OK</string>
+    <string name="drug48">The war on drugs has added “fuel to the fire” of drug cartels.</string>
+    <string name="drug49">In Colorado, where marijuana is legal and regulated, nearly $1 billion dollars of tax revenue was raised. \@ErinAdams4OK</string>
+    <string name="drug50">In Colorado, marijuana taxes fund schools, infrastructure repair, and much more. \@ErinAdams4OK</string>
+    <string name="drug51">Instead of criminalizing non-lethal drugs like marijuana, we should regulate and tax it to help fund core functions of government. \@ErinAdams4OK</string>
+    <string name="drug52">In Iowa, if you are African-American you are 8 times more likely to be arrested for pot possession. \@JohnEvans4Iowa</string>
+    <string name="drug53">The pot usage between blacks and whites is nearly identical, so there is some racial profiling going on. \@JohnEvans4Iowa</string>
+    <string name="drug54">Stop arresting nonviolent people for nonviolent crimes, and stop ruining people’s futures over a plant.\@JohnEvans4Iowa</string>
+
+
+
 
 
 
@@ -83,7 +95,7 @@
     <string name="tax13">Taxation is nothing but a euphemism for armed robbery. \@JimFulner</string>
     <string name="tax14">Property tax is renting the land that you supposedly own from the government. \@JimFulner</string>
     <string name="tax15">All services should be provided by the free market via either user fees or donations. \@JimFulner</string>
-    <string name="tax16">Private businesses have a vested interest in priding services in the absence of government. \@JimFulner</string>
+    <string name="tax16">Private businesses have a vested interest in providing services in the absence of government. \@JimFulner</string>
     <string name="tax17">Services should be paid for by those who directly use them. \@JimFulner</string>
     <string name="tax18">Business owners have a vested interest in subsidizing public services such as roads. \@JimFulner</string>
     <string name="tax19">The internet has flourished because it has remained relatively free of taxation \@GovGaryJohnson \@Werthertweet</string>
@@ -91,7 +103,7 @@
     <string name="tax21">Eliminate FICA taxes for all workers under the poverty line. \@Stanton4Liberty</string>
     <string name="tax22">Eliminating FICA taxes will certainly help individual workers, employers, and encourage job growth. \@Stanton4Liberty</string>
     <string name="tax23">Institute a dollar for dollar tax rebate for charitable donations. \@Stanton4Liberty</string>
-    <string name="tax24">Liberty is not extortion of one's income under the false pretense that the thief knows better how to spend it. \@Stanton4Liberty</string>
+    <string name="tax24">Liberty is not extortion of one\'s income under the false pretense that the thief knows better how to spend it. \@Stanton4Liberty</string>
     <string name="tax25">A tax rebate for charitable donations will encourage individuals to be more charitable. \@Stanton4Liberty</string>
     <string name="tax26">A tax rebate for charitable donations will help eliminate waste incurred by federal programs. \@Stanton4Liberty</string>
     <string name="tax27">We demand a national policy that is not based on coercion and brutality. \@Stanton4Liberty</string>
@@ -162,6 +174,12 @@
     <string name="econ54">Provide equality of power to all individuals. \@Stanton4Liberty</string>
     <string name="econ55">Empower those currently marginalized to produce a better life for themselves and their families. \@Stanton4Liberty</string>
     <string name="econ56">There is a long history within the US of strong opposition to the establishment of a national bank, and that battle lives on today. \@Stanton4Liberty</string>
+    <string name="econ57">If someone doesn\’t qualify for a traditional bank loan, the options are borrow from friends or use predatory loan services. \@JohnEvans4Iowa</string>
+    <string name="econ58">With peer-to-peer lending we can tighten the gap between traditional bank loans and payday loans. \@JohnEvans4Iowa</string>
+    <string name="econ59">Peer-to-peer lending is easily explained: people or organizations can invest money into a lending agency. \@JohnEvans4Iowa</string>
+    <string name="econ60">In peer-to-peer lending, the risks can be spread between individuals who are willing to make the risks. \@JohnEvans4Iowa</string>
+    <string name="econ61">The Iowa state government likes to makes it hard for fantasy football players to pay group dues. \@JohnEvans4Iowa</string>
+    <string name="econ62">The Iowa state government thinks organized betting must be stopped. It\'s nothing but an overreach of government regulation. \@JohnEvans4Iowa</string>
 
 
     <!--education arguments -->
@@ -170,7 +188,6 @@
     <string name="edu3">Instead of putting funds toward classroom expenditures, money has been spent to raise the salaries of administrators. \@ErinAdams4OK</string>
     <string name="edu4">For a proper functioning government, education must be a top priority. \@ErinAdams4OK</string>
     <string name="edu5">Ensure taxpayer dollars are being spent on the students. \@ErinAdams4OK</string>
-
 
     <!-- War arguments -->
     <string name="war0">Free trade with all. Entangling alliances with no one.</string>
@@ -212,7 +229,7 @@
     <string name="war36">Reduce our military presence overseas to encourage a positive view of America, globally and domestically. \@Stanton4Liberty</string>
     <string name="war37">End reckless drone strikes that have killed many innocent people (i.e. Denver-born child Abdulrahman Anwar al-Awlaki). \@Stanton4Liberty</string>
     <string name="war38">Rebuild the bulwark protecting our freedom that has been torn down by claims of national security. \@Stanton4Liberty</string>
-    <string name="war39">I'm more upset that President Obama plagiarized GWB's foreign policy. \@X_Treat</string>
+    <string name="war39">I\'m more upset that President Obama plagiarized GWB\'s foreign policy. \@X_Treat</string>
 
 
     <!-- privacy arguments -->
@@ -247,7 +264,11 @@
     <string name="gun2">"Gun Free zones" are nothing more than advertisements for places criminals can go to and commit their crimes. \@LurieArtie</string>
     <string name="gun3">You should have the ability to protect yourself anywhere you go. \@LurieArtie</string>
     <string name="gun4">Repeal all gun control laws and honor the 2nd amendment, so you can protect your family and keep them safe. \@LurieArtie</string>
-    <string name="gun5"> Where\'s the NRA on this deal? This guy was a concealed carry. \@GovJVentura</string>
+    <string name="gun5">Where\'s the NRA on this deal? This guy was a concealed carry. \@GovJVentura</string>
+    <string name="gun6">I believe individuals have the natural right to defend their property, family, and self. \@JohnEvans4Iowa</string>
+    <string name="gun7">A well armed society is a polite society. \@JohnEvans4Iowa</string>
+    <string name="gun8">Taking away the ability for people to defend themselves only creates victims. \@JohnEvans4Iowa</string>
+
 
     <!-- police state arguments -->
     <string name="pol0">The militarization of police was made possible ENTIRELY by Congress. \@haydentiff</string>
@@ -263,6 +284,11 @@
     <string name="pol10">I pulled up next to this big black thing, looked like something you\'d see in Iraq, and it said MN Highway Patrol. \@GovJVentura</string>
     <string name="pol11"> I foresee a lot of this building up to a martial law situation. \@GovJVentura</string>
 
+    <!-- free speech -->
+    <string name="spe0">Free speech does not mean that people shall be excused from the consequences from such speech. \@JohnEvans4Iowa</string>
+    <string name="spe1">It is the right of every individual to be able to say what they want. \@JohnEvans4Iowa</string>
+    <string name="spe2">If you disagree with my opinions, by all means tell me. \@JohnEvans4Iowa</string>
+    <string name="spe3">The First Amendment wasn’t written to protect people saying uncontroversial things. \@JohnEvans4Iowa</string>
 
 
 </resources>
